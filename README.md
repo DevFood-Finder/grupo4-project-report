@@ -410,6 +410,25 @@ Hemos intentado reducir la cantidad de íconos utilizados para los enlaces y dar
 
 ### [4.2.3. SEO Tags and Meta Tags.](#seo-tags-and-meta-tags)
 
+#### Landing Page
+`<title>DineFinder | Find a new restaurant right now </title>
+<meta charset="utf-8"/>
+<meta name="description" content="Explore, Meet and Review new restaurants everyday anywhere you are. Sign up for free or check our premium plan.">
+<meta
+    name="keywords"
+    content="restaurant search, restaurant discovery, gastronomic exploration, nearby restaurants, restaurant menu, restaurant location, local gastronomic guide, restaurant explorer, restaurant reviews, culinary recommendations, restaurant address, proximity of restaurants, food options exploration, restaurant locator, gastronomic directory"/>
+<meta name="author" content="Dine Finder Corporation" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> `
+
+#### Web application
+`<title>Dine Finder App</title>
+<meta charset="utf-8">
+<meta name=»”description” content=”Welcome to DineFinder, Sign in to start your culinary journey. You don’t have an account? Register now...”>
+<meta name="keywords" content="dinefinder sign dinefinder sign up, dineefinder log in, dineinder application, best restaurants, restaurants, restaurants reviews, restaurant near me, find a place to eat">
+<meta name="author" content="Dine Finder Corporation">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+
+
 ### [4.2.4. Searching Systems.](#searching-systems)
 
 ### [4.2.5. Navigation Systems.](#navigation-systems)
