@@ -53,7 +53,7 @@
 |Versión|Fecha| Autor                                              |Descripción de modificación|
 |-------|-----|----------------------------------------------------|---------------------------|
 |V0.1|6/04/2024| Nicolas                                            |Creación del repositorio|
-|V0.2|07/04/2024| Nicolas                                  | Capitulo 1 y Capitulo 2|
+|V0.2|07/04/2024| Nicolas                                  | Capitulo 1, Capitulo 2 y parte del Capitulo 4|
 |V0.2.1|07/04/2024|                                            |Capitulo 3|
 |V0.3|10/04/2024|                     |Capitulo 4|
 |V0.4|11/04/2024| Nicolas |Capitulo 5 y ultimos ajuste|
@@ -476,6 +476,15 @@ Carlos
 ### [4.1.1. General Style Guidelines.](#general-style-guidelines)
 
 #### Branding
+El logo principal está conformado por el nombre del producto “Food Finder” con letras capitales, estas letras cuentan con un logo de lupa. Esta lupa representa los servicios de búsqueda en la aplicación.
+
+![](Images/NombreFoodFinder.png)
+
+
+El ícono de lupa  mencionado anteriormente con su mango para agarrar la lupa.
+
+![](Images/LupaFoodFinder.png)
+
 #### Typography
 La tipografía empleada será Raleway con sus variantes Regular, Medium, Semibold, Bold y Extrabold. El tamaño de la letra varía entre 1rem (16px) 1.5rem (24px) 2rem (32px), 3rem (48px) y 3.5rem (56px).
 
