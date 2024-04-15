@@ -211,6 +211,22 @@ Esta problemática afecta tanto a los consumidores, que se sienten abrumados por
 ### [1.2.2 Lean UX Process](#lean-ux-process)
 #### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
 
+**Problem Statement 1**
+
+**Problema:** Los usuarios encuentran difícil descubrir nuevos restaurantes que se ajusten a sus gustos y preferencias debido a la falta de recomendaciones personalizadas y a la sobrecarga de opciones en el mercado.
+
+**Impacto:** Los usuarios pueden sentirse abrumados y frustrados al intentar encontrar un restaurante adecuado, lo que resulta en decisiones poco informadas o en la elección de opciones seguras y conocidas en lugar de experiencias nuevas y emocionantes.
+
+**Causas:** Falta de un algoritmo de recomendación personalizada que tenga en cuenta las preferencias y comportamientos pasados de los usuarios, y la falta de diferenciación de la plataforma en un mercado saturado de aplicaciones de búsqueda de restaurantes.
+
+**Problem Statement 2**
+
+**Problema:** Los restaurantes locales luchan por aumentar su visibilidad y atraer a más clientes, especialmente durante los períodos de baja demanda, debido a la falta de herramientas efectivas de marketing digital a bajo costo.
+
+**Impacto:** Los restaurantes pueden experimentar una disminución en las reservas y en los ingresos durante los períodos de baja demanda, lo que puede afectar su viabilidad económica a largo plazo. 
+
+**Causas:** Falta de una plataforma que les permita promocionar ofertas especiales y eventos exclusivos para atraer a nuevos clientes y fidelizar a los existentes, y la falta de colaboraciones estratégicas que les permitan destacar en un mercado competitivo.
+
 #### [1.2.2.2 Lean UX Assumptions](#lean-ux-assumptions)
 
 
