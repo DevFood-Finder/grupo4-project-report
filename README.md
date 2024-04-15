@@ -33,8 +33,8 @@
             <td></td>
         </tr>
         <tr> 
-            <td></td>
-            <td></td>
+            <td>Chavez Rojas, Carlos Raul Guillermo</td>
+            <td>U201910317</td>
         </tr>
         <tr> 
             <td>Vera Nuñez, Nicolas Alejandro</td>
@@ -434,7 +434,7 @@ Hemos intentado reducir la cantidad de íconos utilizados para los enlaces y dar
 Se utilizará un sistema de filtros para encontrar restaurantes. Entre los filtros, serán por tipo de restaurante, comida del día, opción en línea, distrito. Los filtros se pueden acumular para búsquedas exactas. Asimismo, habrá una barra de búsqueda para buscar restaurantes por nombre que estará visible en la parte superior.
 
 ### [4.2.5. Navigation Systems.](#navigation-systems)
-
+El usuario podrá acceder a otra sección de la página al hacer clic en los enlaces etiquetados, los cuales estarán asociados con el contenido de la etiqueta, y estarán ubicados en los encabezados de la página. Para exhibir nuestros diseños, emplearemos un encabezado que los dirigirá a secciones específicas al hacer clic en "Características", "Testimonios" y "Planes". Además, se añadirán botones para simplificar la navegación del usuario si encuentra algún contenido de interés en la página principal.
 ## [4.3. Landing Page UI Design](#landing-page-ui-design)
 ### [4.3.1. Landing Page Wireframe.](#landing-page-wireframe)
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
