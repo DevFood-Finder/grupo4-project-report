@@ -329,7 +329,19 @@ En cuanto a los restaurantes, nuestra solución se integra en su estrategia de m
 </table>
 
 ## [1.3. Segmentos objetivo](#segmentos-objetivo)
+Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 
+- **Comensales**
+
+  Personas entre 18 y 50 años que cuentan con un smartphone, tablet, computadora o laptop con conexión a internet que deseen conocer nuevos restaurantes
+
+  ![Segmento1](Images/SegmentoObjetivo1.png)
+
+- **Restaurantes**
+
+  Establecimientos pequeños a medianos, posiblemente nuevos en el mercado o aquellos que buscan expandir su clientela. Incluye una amplia gama de cocinas y ambientes, desde casuales hasta más formales.
+
+  ![Segmento2](Images/SegmentoObjetivo2.png)
 
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 # [2.1 Competidores](#competidores)
