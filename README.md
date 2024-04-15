@@ -25,8 +25,8 @@
             <th>Codigo</th>
         </tr>
         <tr> 
-            <td></td>
-            <td></td>
+            <td>Becerra Llempen, Fabiola Dayane</td>
+            <td>u20171a518</td>
         </tr>
         <tr> 
             <td>Arroyo Ormeño, André Alonso</td>
