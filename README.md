@@ -251,6 +251,34 @@ Esta problemática afecta tanto a los consumidores, que se sienten abrumados por
 
 **-Resolveremos esto** enfocándonos en construir una sólida base inicial de usuarios y restaurantes a través de ofertas y promociones exclusivas, y asegurando que el valor proporcionado por la suscripción premium exceda significativamente el costo, por ejemplo, ofreciendo descuentos exclusivos, eventos especiales y acceso prioritario a reservas en restaurantes de alta demanda.
 
+**User Assumptions**
+
+**¿Quién es el usuario?** 
+
+- Personas interesadas en descubrir nuevos restaurantes
+- Restaurantes que quieren darse a conocer.
+  **
+ 
+
+**¿Dónde encaja nuestro servicio en su trabajo o vida?** 
+
+En cuanto a las personas interesadas en descubrir nuevos restaurantes (comensales), nuestro servicio se convierte en una herramienta esencial para la planificación de comidas, encuentros sociales y exploración culinaria. Además, facilita la decisión de dónde comer basándose en preferencias personales, ubicación y recomendaciones.
+
+En cuanto a los restaurantes, nuestra solución se integra en su estrategia de marketing y operaciones diarias como una plataforma para atraer nuevos clientes y gestionar reservas, mejorando así su visibilidad y rentabilidad.
+
+
+**¿Qué problema tiene nuestro servicio y cómo se resuelve?**
+
+- Un problema es la dificultad para conectar restaurantes locales con clientes potenciales interesados en nuevas experiencias gastronómicas. Nuestra solución a este problema es implementar un algoritmo de recomendación personalizada que sugiera restaurantes basados en las preferencias gastronómicas y comportamientos de reserva de los usuarios. Además, le permitiremos a los restaurantes publicar ofertas exclusivas y organizar eventos gastronómicos exclusivos en colaboración con nuestra plataforma. De igual forma, implementaremos un programa de recompensas para incentivar la fidelidad de los usuarios y aumentar las reservas a través de la plataforma. Estas recompensas serán algunas promociones en ciertos restaurantes
+
+- Otro problema es la insuficiente diferenciación de la plataforma en un mercado saturado de aplicaciones de búsqueda de restaurantes. Nuestra solución a este problema es enfocarnos en la experiencia del usuario, diseñaremos una interfaz intuitiva y atractiva centrada en la facilidad de uso y la personalización. Además, fomentaremos el contenido generado por usuarios reales para aumentar la confianza y autenticidad de la plataforma. Asimismo, nos asociaremos con influencers gastronómicos locales y ofreceremos servicios adicionales, como la reserva de experiencias culinarias únicas, para diferenciarnos de la competencia.
+
+
+
+**¿Cuándo y cómo es usado nuestro servicio?**
+
+- Los usuarios utilizan el servicio a través de nuestra plataforma intuitiva para buscar y reservar restaurantes en cualquier momento, ya sea para planificar con antelación o para encontrar opciones de última hora.
+- Los restaurantes acceden a nuestro servicio para actualizar su perfil, menús, y disponibilidad de reserva, así como para revisar y gestionar las reservas entrantes y feedback de los clientes a diario.
 
 #### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
 
