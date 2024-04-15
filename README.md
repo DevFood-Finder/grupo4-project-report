@@ -352,9 +352,8 @@ Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 # [2.1 Competidores](#competidores)
 ### [2.1.1 Análisis competitivo](#análisis-competitivo)
-![](competitive_analysis.png)
 ![](Images/analysis1.png)
-
+![](competitive2.png)
 
 
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
