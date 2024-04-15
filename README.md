@@ -305,7 +305,10 @@ Carlos
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
-
+**Impact mapping 1: Jefe de restaurante**
+![impact map jefe de restaurante](https://imgur.com/DmW1Hsb.jpg)
+**Impact mapping 2: Cliente del restaurante**
+![impact cliente del restuarante](https://imgur.com/YAq3W4w.jpg)
 ## [3.2. User Stories.](#user-stories)
 
 ## [3.3. Impact Mapping.](#impact-mapping)
