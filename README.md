@@ -291,6 +291,25 @@ En cuanto a los restaurantes, nuestra solución se integra en su estrategia de m
 - Aumento en el número de usuarios y reservas realizadas a través de la plataforma.
 - Crecimiento en la adquisición de usuarios premium.
 - Mayor número de restaurantes registrados y activos en la plataforma.
+
+**Features**
+
+**¿Qué características son importantes?** 
+
+- Búsqueda y filtrado avanzados por tipo de cocina, ubicación, rango de precio, y valoraciones.
+- Reservas en línea y gestión de reservas para usuarios y restaurantes.
+- Perfiles de restaurantes con menús, fotos y reseñas de usuarios.
+- Sistema de recomendaciones personalizadas.
+- Programa de recompensas y beneficios para usuarios premium.
+
+**¿Cómo debería verse y comportarse nuestro servicio?**
+
+- Interfaz de usuario intuitiva y amigable para todos los grupos de edad.
+- Respuesta rápida y rendimiento óptimo en todas las plataformas (web y móvil).
+- Diseño atractivo que invite a la exploración y descubrimiento.
+- Proceso de reserva simplificado, con mínimos pasos para finalizar una reserva.
+- Comunicación clara y transparente de los beneficios de la suscripción premium.
+
 #### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
 
 #### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
