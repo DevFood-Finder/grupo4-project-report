@@ -280,6 +280,17 @@ En cuanto a los restaurantes, nuestra solución se integra en su estrategia de m
 - Los usuarios utilizan el servicio a través de nuestra plataforma intuitiva para buscar y reservar restaurantes en cualquier momento, ya sea para planificar con antelación o para encontrar opciones de última hora.
 - Los restaurantes acceden a nuestro servicio para actualizar su perfil, menús, y disponibilidad de reserva, así como para revisar y gestionar las reservas entrantes y feedback de los clientes a diario.
 
+**Users outcomes**
+
+- Descubrimiento de nuevas experiencias gastronómicas.
+- Menor tiempo y esfuerzo para planificar comidas y reservas.
+- Satisfacción por vivir experiencias culinarias que cumplen o superan las expectativas.
+
+**Business outcomes**
+
+- Aumento en el número de usuarios y reservas realizadas a través de la plataforma.
+- Crecimiento en la adquisición de usuarios premium.
+- Mayor número de restaurantes registrados y activos en la plataforma.
 #### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
 
 #### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
