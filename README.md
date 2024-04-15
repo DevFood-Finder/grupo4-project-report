@@ -357,8 +357,52 @@ Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 
 
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
+Liderazgo en costes:
+Tenemos la capacidad de producir y ofrecer nuestro producto de manera gratuita, sin agregar limitaciones a sus funciones principales. Asimismo, para las membresías de pago, podemos ofrecer un precio inferior al de nuestros competidores, con la intención de hacer de nuestra aplicación una opción más atractiva. Y también, orientándose a satisfacer las necesidades de nuestros clientes que enfocan su decisión de compra en el precio.
+Estrategia de diferenciación:
+Tenemos la capacidad de producir y ofrecer nuestro producto de manera gratuita, sin agregar limitaciones a sus funciones principales. Asimismo, para las membresías de pago, podemos ofrecer un precio inferior al de nuestros competidores, con la intención de hacer de nuestra aplicación una opción más atractiva. Y también, orientándose a satisfacer las necesidades de nuestros clientes que enfocan su decisión de compra en el precio.
+
+
+Estrategia de enfoque:
+Somos conscientes que el crecimiento de la tecnología y el incremento en el uso de computadoras y smartphones, han generado una gran demanda en los servicios de gestión y guías gastronómicas. Por ello, nos enfocamos en toda aquella persona que se encuentre interesado en la búsqueda de buenos restaurantes con algunos filtros que puedan realizarse en el momento de la búsqueda que requiera un software que le ayude con el correcto uso de sus búsquedas para obtener resultados eficientes. 
+
+
+Táctica de expansión:
+A pesar de que la aplicación funciona de manera gratuita. No planeamos saturar de anuncios por cada operación que se realice con ella. Planeamos expandir su uso a través de buenas calificaciones y anuncios.
+
 ## [2.2 Entrevistas](#entrevistas)
 ### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
+
+Preguntas Generales
+¿Cuál es su nombre completo?
+¿Dónde vive actualmente?
+¿Cuál es su fecha de nacimiento?
+¿Cuál es su ocupación actual?
+¿Tiene experiencia en aplicaciones que recomienden restaurantes? ¿Suele encontrar restaurantes que les interese?
+¿Se encuentra interesado en realizar un seguimiento de los nuevos restaurantes cercanos a usted ?
+
+Preguntas para ambos segmentos
+¿Cuáles son los desafíos más comunes que encuentras al buscar un restaurante cercano?
+¿Cómo decides qué restaurante es el ideal para conocer?
+¿Qué tipo de características consideras más importante al momento de elegir un restaurante?
+¿Podrías contarme sobre una experiencia reciente en la que hayas conocido un restaurante?
+¿Cómo afecta tu fin de semana la planificación y conocimiento sobre nuevos restaurantes?
+¿Qué te motiva a salir de tu hogar y visitar nuevos lugares gastronómicos?
+¿Qué características valorarías en una aplicación que te ayude a encontrar restaurantes nuevos o interesantes?
+¿Cómo te gustaría que una aplicación web te asistiera en la búsqueda de un restaurante?
+¿Qué te impulsa a buscar nuevos restaurantes o cambiar tu restaurante cotidiano?
+¿Cómo evalúas el éxito de conocer nuevos restaurantes y conocer nuevas gastronomías?
+Preguntas para los comensales:
+¿Qué tipo de restaurante te gustaría visitar con frecuencia cuando quieres salir a una reunión con amigos?
+¿Cómo te sientes al encontrar nuevos restaurantes con buena sazón y con un buen ambiente y cómo te gustaría que una aplicación te guiará en el proceso?
+¿Qué característica en el ambiente del local es importante para lograr encontrar el restaurante adecuado?
+¿Qué factores consideras más importantes al momento de seleccionar el restaurante adecuado?
+Preguntas para los restaurantes del mercado:
+¿Qué metas específicas tienes en mente para promocionar tu restaurante?
+¿Qué herramientas o métodos has utilizado anteriormente para obtener más visitas a tu restaurante?
+¿Cómo te mantienes informado sobre los requerimientos de los usuarios y qué tipo de información buscas regularmente?
+¿Qué aspectos de tu restaurante esperas mejorar al tener un mayor control del servicio?
+
 
 ### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
 
