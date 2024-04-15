@@ -316,6 +316,29 @@ Carlos
 ## [4.1. Style Guidelines.](#style-guidelines)
 ### [4.1.1. General Style Guidelines.](#general-style-guidelines)
 
+#### Branding
+#### Typography
+La tipografía empleada será Raleway con sus variantes Regular, Medium, Semibold, Bold y Extrabold. El tamaño de la letra varía entre 1rem (16px) 1.5rem (24px) 2rem (32px), 3rem (48px) y 3.5rem (56px).
+
+#### Colors
+ - #EBEBD3
+ - #FB8B24
+ - #3C0000
+ - #1F271B
+
+[Paleta de colores ](https://imgur.com/PlLMNcY.jpg)
+
+#### Spacing
+El spacing mantiene:
+- Botones: padding de 16px vertical y 32px horizontal
+- Margin entre texto 16px
+- Margin entre elementos 24px
+- Margin entre secciones 72px
+
+#### Dimension
+La dimensión para adoptar en cuanto al diseño es un tono agradable y semi formal, aplicando colores relacionados con la comida como el anaranjado presentado y tonos más serios como el rojo y oliva presentados. Asimismo, para el diseño de los íconos y formas adoptaremos diseños amigables al usuario utilizando bordes curvos en su mayoría.
+
+
 ### [4.1.2. Web Style Guidelines.](#web-style-guidelines)
 
 ## [4.2. Information Architecture.](#information-architecture)
