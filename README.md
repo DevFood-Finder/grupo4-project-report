@@ -395,8 +395,10 @@ Carlos
 ![](Images/UserJourneyMapping2.jpg)
 ### [2.3.4. Empathy Mapping**](#234-empathy-mapping)
 **Sofia**
+![](Images/EmpathyMapping1.png)
 
 **Carlos**
+![](Images/EmpathyMapping2.png)
 
 ### [2.3.5 As-is Scenario Mapping](#as-is-scenario-mapping)
 **Sofia**
