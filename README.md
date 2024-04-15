@@ -428,10 +428,15 @@ Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&n
 ![Imgur](https://imgur.com/mhKGcFx.jpg)
 Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&node-id=0%3A1&mode=design&t=bUA1hxzj2tAUT2Ml-1 
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
+
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
 
+Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&node-id=0%3A1&mode=design&t=bUA1hxzj2tAUT2Ml-1 
 ### [4.4.2. Web Applications Wireflow Diagrams.](#web-applications-wireflow-diagrams)
+![Imgur](https://imgur.com/jYOlbBR.jpg)
+![Imgur](https://imgur.com/xbnKNj0.jpg)
 
+Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&node-id=0%3A1&mode=design&t=bUA1hxzj2tAUT2Ml-1 
 
 ### [4.4.3. Web Applications Mock-ups.](#web-applications-mock-ups)
 
