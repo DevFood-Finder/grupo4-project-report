@@ -312,7 +312,15 @@ En cuanto a los restaurantes, nuestra solución se integra en su estrategia de m
 
 #### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
 
-#### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
+1. Creemos que ofrecer a los usuarios la capacidad de ver menús completos y hacer reservas directamente a través de nuestra plataforma para aquellos interesados en descubrir nuevos restaurantes conseguirá aumentar la satisfacción del usuario y el número de reservas. Lo sabremos cuando veamos un aumento del 20% en las reservas realizadas y una mejora en las calificaciones y comentarios en nuestra plataforma.
+
+1. Creemos que implementar un sistema de recomendaciones personalizadas basado en preferencias culinarias previas y valoraciones para nuestros usuarios conseguirá aumentar la retención de usuarios en un 30%. Lo sabremos cuando veamos un aumento en la frecuencia de uso de la plataforma y en el número de sesiones por usuario.
+
+1. Creemos que al ofrecer a los restaurantes una herramienta para gestionar reservas y promocionar ofertas especiales a un público objetivo interesado en nuevas experiencias gastronómicas, conseguiremos aumentar en un 25% el número de restaurantes que se registran en nuestra plataforma. Lo sabremos cuando veamos un aumento en el número de registros de restaurantes y en la publicación de ofertas especiales.
+1. Creemos que al mejorar la interfaz de usuario de nuestra aplicación móvil para hacerla más intuitiva y amigable para personas de todas las edades, conseguiremos un aumento del 15% en la adquisición de nuevos usuarios. Lo sabremos cuando veamos un aumento en las descargas de la aplicación y en la actividad de nuevos usuarios durante el primer mes después del lanzamiento de la versión mejorada.
+
+1. Creemos que ofreciendo a los usuarios premium la posibilidad de acceder a eventos culinarios exclusivos y ofertas especiales de restaurantes aumentaremos la conversión de usuarios estándar a premium en un 10%. Lo sabremos cuando veamos un aumento en la suscripción premium y una participación activa en eventos y ofertas registradas.
+#### <a name="_z98fpbomwpa3"></a>**1.2.2.4. Lean UX Canvas**
 
 
 ## [1.3. Segmentos objetivo](#segmentos-objetivo)
