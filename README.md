@@ -353,7 +353,7 @@ Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 # [2.1 Competidores](#competidores)
 ### [2.1.1 Análisis competitivo](#análisis-competitivo)
 ![](competitive_analysis.png)
-![](competitive2.png)
+![](Images/analysis1.png)
 
 
 
