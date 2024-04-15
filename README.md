@@ -595,7 +595,63 @@ Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&n
 ### [4.7.1. Class Diagrams.](#class-diagrams)
 ![Class Diagram](https://imgur.com/4nxiXsc.jpg)
 ### [4.7.2. Class Dictionary.](#class-dictionary)
+|**Suscription**||
+| :- | :- |
+|Representa la información básica de la suscripción||
+|**Atributo**|**Descripción**|
+|\_startedAt : DateTime|fecha en que inició la suscripción|
+|\_finishedAt :DateTime|fecha que finaliza la suscripción|
+|**Métodos**|**Descripción**|
+|IsAvalaible()|con este método se sabrá si la suscripción está activa o no|
 
+|**User**||
+| :- | :- |
+|Es la clase que representa al usuario en la plataforma||
+|**Atributo**|**Descripción**|
+|\_email : string|es el correo del usuario|
+|\_password: string|es la contraseña del usuario|
+|\_account:Account|hace referencia a la cuenta asociada|
+|**Métodos**|**Descripción**|
+|CloseAccount()|Este método permite cerrar sesion en la plataforma|
+|ChangeProfilePicture()|Este metodo permite cambiar la foto de perfil del usuario|
+
+|**Account**||
+| :- | :- |
+|Esta clase complementa la información brindada por el usuario en la plataforma||
+|**Atributo**|**Descripción**|
+|\_name : string|es el nombre real del usuario|
+|\_lastname: string|es el apellido real del usuario|
+|\_createdBy:User|hace referencia al tipo de usuario que creó la cuenta(cliente de restaurante o jefe de restaurante)|
+|\_suscription: Suscription|es la suscripción a la que está asociada|
+|**Métodos**|**Descripción**|
+|ChangeSuscription()|Este método permite cambiar la suscripción|
+
+|**RestaurantManager**||
+| :- | :- |
+|Esta clase representa al jefe del restaurante en la plataforma||
+|**Atributo**|**Descripción**|
+|\_nameRestaurant : string|es el nombre del restaurante de cual es dueño|
+|\_name: string|es el nombre del jefe del restaurante|
+|**Métodos**|**Descripción**|
+|ViewVisitofRestaurant()|Este método permite visualizar la cantidad de personas que entraron al restaurante|
+|EditMenu()|Este método permite editar el menú del restaurante|
+|PublishPromotion()|Este método permite publicar promociones|
+|ViewQuantityPlates()|Este método permite ver la cantidad de veces que fue consumido un plato del menú|
+|ReservationControl()|Este método permite aceptar o rechazar las solicitudes de reserva de los clientes de los restaurantes|
+
+|**RestaurantCustomer**||
+| :- | :- |
+|Esta clase representa al cliente del restaurante en la plataforma||
+|**Atributo**|**Descripción**|
+|\_name : string|es el nombre del cliente del restaurante|
+|\_preferencias: string|son las preferencias del cliente del restaurante|
+|**Métodos**|**Descripción**|
+|SearchRestaurantName()|Este método buscar a los restaurantes por nombre|
+|SearchRestaurantDistrict()|Este método permite buscar a los restaurantes de acuerdo al distrito elegido|
+|SeeReviews()|Este método permite visualizar las reviews|
+|ViewMenu()|Este método permite visualizar los menús de los restaurantes|
+|ViewPromotion()|Este método permite visualizar las promociones realizadas por los restaurantes|
+|DoReservation()|Este método permite hacer reservaciones en los restaurantes|
 ## [4.8. Database Design.](#database-design)
 ### [4.8.1. Database Diagram.](#database-diagram)
 
