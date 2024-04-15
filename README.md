@@ -352,7 +352,9 @@ Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 # [2.1 Competidores](#competidores)
 ### [2.1.1 Análisis competitivo](#análisis-competitivo)
-![]([competitive analysis.png](https://github.com/DevFood-Finder/grupo4-project-report/blob/docs-sr/competitive%20analysis.png)
+![](competitive_analysis.png)
+![](competitive2.png)
+
 
 
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
