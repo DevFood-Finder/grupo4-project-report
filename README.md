@@ -637,6 +637,10 @@ Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&n
 
 
 ### [4.4.4. Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
+Para esta sección, se presentan los user flow diagrams, los cuales son diagramas que ayudan a presenciar de mejor manera el flujo por el cual pasará el usuario al momento de realizar cierta acción.
+![imgur](Images/flowdiagram1.png)
+![imgur](Images/userflowdiagram2.png)
+
 
 ## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
 
