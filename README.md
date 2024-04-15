@@ -379,7 +379,7 @@ La tipografía empleada será Raleway con sus variantes Regular, Medium, Semibol
  - #3C0000
  - #1F271B
 
-[Paleta de colores ](https://imgur.com/PlLMNcY.jpg)
+![Paleta de colores ](https://imgur.com/PlLMNcY.jpg)
 
 #### Spacing
 El spacing mantiene:
@@ -391,15 +391,17 @@ El spacing mantiene:
 #### Dimension
 La dimensión para adoptar en cuanto al diseño es un tono agradable y semi formal, aplicando colores relacionados con la comida como el anaranjado presentado y tonos más serios como el rojo y oliva presentados. Asimismo, para el diseño de los íconos y formas adoptaremos diseños amigables al usuario utilizando bordes curvos en su mayoría.
 
-[Captura Hero image](https://imgur.com/20SoX5I.jpg)
 
 
 ### [4.1.2. Web Style Guidelines.](#web-style-guidelines)
 Hicimos uso de la tendencia web functional minimalism. Utilizamos el color beige claro como predominante en el fondo de la mayoría de secciones. Además, utilizamos una imagen de alta definición para la sección hero, debajo de la barra de navegación.
 
+![Captura Hero image](https://imgur.com/20SoX5I.jpg)
+
 
 ## [4.2. Information Architecture.](#information-architecture)
 ### [4.2.1. Organization Systems.](#organization-systems)
+En este ámbito, nos estructuramos de forma jerárquica. Este enfoque implica la creación de elementos visuales que ayudan al usuario a entender fácilmente. Los elementos más prominentes de nuestra página web ocupan el primer nivel jerárquico, atrayendo la atención de nuestros usuarios al ingresar, como los logotipos y los títulos. Los elementos asociados a subtítulos y campos de ingreso de información están en el segundo nivel. Por último, el tercer nivel comprende componentes secundarios como el icono de búsqueda y la foto de perfil.
 
 ### [4.2.2. Labeling Systems.](#labeling-systems)
 ### [4.2.3. SEO Tags and Meta Tags.](#seo-tags-and-meta-tags)
