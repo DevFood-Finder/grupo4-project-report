@@ -358,6 +358,9 @@ Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 ## [2.3 Needfinding](#needfinding)
 
 ### [2.3.1 User Personas](#user-personas)
+![](Images/UserPersona1.png)
+
+![](Images/UserPersona2.png)
 
 ### [2.3.2 User Task Matrix](#user-task-matrix)
 
@@ -365,23 +368,23 @@ Sofia
 
 |Actividades|Frecuencia|Importancia|
 | :- | :- | :- |
-|Investigar en apps opciones de transporte.|Siempre|Alta|
-|Investigar en apps opciones de transporte compartido.|Con frecuencia |Alta|
-|Participar en grupos de viaje compartido.|Rara vez|Media|
-|Buscar rutas de viaje|A veces|Media|
-|Planear viajes|A veces|Media|
-|Buscar opciones de transporte sostenible|Con frecuencia|Alta|
+|Buscar nuevos restaurantes|Often|Alta|
+|Leer reseñas de restaurantes|Often|Alta|
+|Reservar mesas en restaurantes|Sometimes|Alta|
+|Explorar menús de restaurantes|Often|Media|
+|Compartir experiencias culinarias|Sometimes|Media|
+|Recibir recomendaciones personalizadas|Often|Alta|
 
 Carlos
 
 |Actividades|Frecuencia|Importancia|
 | :- | :- | :- |
-|Búsqueda de compartir los costos del combustible.|A veces|Media|
-|Buscar compañeros de viaje con horarios y rutas que coincidan.|Con frecuencia |Alta|
-|Explorar alternativas de transporte compartido.|Rara vez|Media|
-|Organizar el horario y la ruta de los viajes.|A veces|Alta|
-|Llevar un registro de gastos de transporte|Siempre|Alta|
-|Buscar alternativas de transporte|A veces|Media|
+|Actualizar información del restaurante|Sometimes|Alta|
+|Gestionar reservaciones recibidas|Always |Alta|
+|Responder a reseñas de clientes|Often|Alta|
+|Publicar novedades del menú|Often|Media|
+|Monitorizar la competencia|Sometimes|Media|
+|Analizar datos de visitas y reservaciones|Sometimes|Alta|
 
 
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
