@@ -402,8 +402,10 @@ Carlos
 
 ### [2.3.5 As-is Scenario Mapping](#as-is-scenario-mapping)
 **Sofia**
+![](Images/As-IsMapping1.jpg)
 
 **Carlos**
+![](Images/As-IsMapping2.jpg)
 
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
 
