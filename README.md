@@ -194,42 +194,19 @@ Aspiramos a ser el líder global en soluciones de descubrimiento culinario, tran
 ## [1.2 Solution Profile](#solution-profile)
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
 
-**What (Qué)**
+En muchas ocasiones, las personas enfrentan el dilema de elegir un restaurante para disfrutar de una comida satisfactoria. Todo esto se debe a la amplia oferta gastronómica disponible, la falta de información sobre las opciones disponibles, la calidad de la comida y la experiencia general en cada establecimiento. Esta falta de información conduce a una menor afluencia de público hacia los restaurantes, lo que a su vez resulta en un bajo consumo en estos establecimientos. Además, según Blanca Chávez, presidenta del Comité de Restaurantes de la Asociación Peruana de Hoteles, Restaurantes y Afines, señala que las ventas se han reducido hasta en un 40% en los locales gastronómicos debido a esto.
 
-_¿Cuál es el problema?_
-
-**Where (Dónde)**
-
-_¿A dónde se dirige?_
+Esta problemática afecta tanto a los consumidores, que se sienten abrumados por la cantidad de opciones y la falta de información, como a los restaurantes, que ven reducida su clientela y, por lo tanto, sus ingresos. Además, la falta de transparencia en la información sobre los restaurantes dificulta la competencia justa en el mercado gastronómico. Por ello, este escenario destaca la necesidad de una solución.
 
 
-**Why (Por Qué)**
-
-_¿Cuál es la causa del problema?_
-
-
-**When (Cuando)**
-
-_¿Cuándo sucede el problema?_
-
-
-**Who (Quién)**
-
-_¿Quiénes están involucrados? ¿Quién lo utilizará?_
-
-**How (Cómo)**
-
-_¿Cómo se utilizará el producto?_
-
-_¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?_
-
-**How Much (Cuánto)**
-
-_¿Cuál es la magnitud del problema?_
-
-
-_¿Quienes seran los beneficiados por el servicio?_
-
+|**What (Qué)**|La amplia oferta gastronómica disponible y la falta de información sobre las opciones disponibles, la calidad de la comida y la experiencia general en cada establecimiento, generan un dilema al momento de elegir un restaurante para disfrutar de una comida satisfactoria.|
+| :-: | :- |
+|**When (Cuándo)**|Esta situación se presenta de manera constante, ya que la falta de información sobre restaurantes es un problema continuo para muchas personas.|
+|**Where (Dónde)**|Esta problemática puede observarse en diversas ciudades y regiones con una alta concentración de restaurantes y una fuerte competencia en el sector gastronómico.|
+|**Who (Quién)**|El problema involucra a los consumidores que buscan lugares para comer y a los restaurantes que buscan atraer más clientes.|
+|**Why (Por qué)**|<p>Existen diversas razones para los consumidores y los restaurantes:</p><p>- La amplia oferta gastronómica disponible</p><p>- La falta de información sobre las opciones disponibles</p><p>- La experiencia general en cada establecimiento</p><p>- La poca publicidad de los restaurantes</p><p></p>|
+|**How (Cómo)**|La falta de información detallada sobre los restaurantes dificulta a los consumidores tomar decisiones informadas sobre dónde comer, lo que resulta en una menor afluencia de público hacia estos establecimientos y un bajo consumo en ellos.|
+|**How much (Cuánto)**|Según las estadísticas de la INEI, la actividad de restaurantes (servicios de comidas y bebidas) se contrajo en 1,90% en el décimo mes del año 2023, con reportes en baja de tres de sus cuatro componentes. Ademas, el grupo de restaurantes mostró una variación de -5,66%, por menor actividad en los negocios de pollerías, carnes y parrillas, restaurantes, comidas rápidas, cevicherías, restaurantes turísticos, heladerías y chifas. El principal motivo es la menor afluencia de comensales y el incremento de precios a la carta.|
 
 ### [1.2.2 Lean UX Process](#lean-ux-process)
 #### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
