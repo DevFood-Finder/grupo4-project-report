@@ -431,6 +431,8 @@ Hemos intentado reducir la cantidad de íconos utilizados para los enlaces y dar
 
 ### [4.2.4. Searching Systems.](#searching-systems)
 
+Se utilizará un sistema de filtros para encontrar restaurantes. Entre los filtros, serán por tipo de restaurante, comida del día, opción en línea, distrito. Los filtros se pueden acumular para búsquedas exactas. Asimismo, habrá una barra de búsqueda para buscar restaurantes por nombre que estará visible en la parte superior.
+
 ### [4.2.5. Navigation Systems.](#navigation-systems)
 
 ## [4.3. Landing Page UI Design](#landing-page-ui-design)
