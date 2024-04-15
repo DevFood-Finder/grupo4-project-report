@@ -343,7 +343,28 @@ Carlos
 **Impact mapping 2: Cliente del restaurante**
 ![impact cliente del restuarante](https://imgur.com/YAq3W4w.jpg)
 ## [3.4. Product Backlog.](#product-backlog)
-
+|**#**|**User story ID**|**Título**|**Descripción** |**Story Points (1 / 2 / 3 / 5 / 8)**|
+| :-: | :- | :-: | :-: | :- |
+|1|E1-US101|<p>Barra de navegación en landing page</p><p> </p>|**Como** usuario **quiero** una barra de navegación de landing page **para** tener accesos directos a la información de la aplicación |2|
+|2|E1-US102|Sección hero de landing page	|<p>**Como** usuario **quiero** visualizar una sección hero en el landing page</p><p>**para** tener una idea sobre lo que ofrece la aplicación**	</p>|3|
+|3|E1-US103|Sección de producto de landing page|<p>**Como** usuario **quiero** visualizar características de la aplicación en el landing page</p><p>**para** saber sobre las características que ofrece la aplicación</p><p></p>|3|
+|4|E1-US104|Sección de testimonios en landing page|<p>**Como** usuario **quiero** visualizar testimonios de usuarios que utilizaron la aplicación</p><p>**para** saber sobre experiencias reales de usuarios</p><p></p>|3|
+|5|E1-US105|Sección de planes en landing page|<p>**Como** usuario **quiero** visualizar los planes que ofrece la aplicación **para** considerar adquirir la membresía</p><p></p>|2|
+|6|E1-US106|Sección de footer a la aplicación en landing page|<p>**Como** usuario **quiero** visualizar la sección de footer **para** acceder a links de la página</p><p></p>|1|
+|7|E2-US101|Registro e inicio de sesión|**Como** usuario **quiero** tener en la app un apartado de inicio de sesión **para** que se guarde mi información|5|
+|8|E2-US102|Formulario de login|**Como** usuario de la página web, **quiero** ingresar con mi cuenta con la cual me registre **para** usar las herramientas a mi disposición.|3|
+|9|E2-US103|Recuperación de contraseñas |**Como** usuario **quiero** que la aplicación tenga un apartado que me permita recuperar mi contraseña en caso me olvide **para** ingresar a mi cuenta de usuario|3|
+|10|E4-US102|Visualización de restaurantes por distrito|**Como** cliente de restaurante free **quiero** poder buscar restaurante por distritos **para** conocer todos los posibles restaurantes a los que puedo ir |3|
+|11|E4-US101|Visualización de restaurante por nombre|**Como** cliente de restaurante free **quiero** poder buscar restaurantes por nombre **para** encontrar restaurantes de mi interes|3|
+|12|E3-US106|Reportar reseña |**Como** dueño del restaurante **quiero** reportar reseñas **para** borrar reseñas sin argumentos|3|
+|13|E4-US103|Visualización de reseñas del restaurante |**Como** cliente de restaurante free **quiero** ver las reseñas de los restaurantes **para** elegir el restaurante de acuerdo a la valorización de otros |3|
+|14|E3-US102|Edición del menú del restaurante|**Como** dueño del restaurante **quiero** editar el menú **para** informar los platillos disponibles a los clientes |3|
+|15|E3-US104|Visualización de pedidos de los platillos del menú |**Como** dueño del restaurante **quiero** visualizar la cantidad de pedidos de cada platillo **para** saber cuáles son los más vendidos|3|
+|16|E3-US101|Visualización de visitas del restaurante|**Como** dueño del restaurante **quiero** visualizar las visitas de mi restaurante<br>**para** poder planificar estrategias de marketing|3|
+|17|E3-US103|Publicar promociones de platillos|**Como** dueño del restaurante **quiero** publicar promociones de platillos **para** ganar más clientes al restaurante|5|
+|18|E4-US105|Obtener ofertas exclusivas de precios |**Como** cliente de restaurante premium **quiero** tener oferta de precios exclusivas en los restaurantes **para** incentivar mi visita de los mismos|3|
+|19|E3-US105|Control de reserva online|**Como** dueño del restaurante **quiero** aceptar o rechazar reservar online **para** aceptar reservas online de acuerdo a la disponibilidad|5|
+|20|E4-US106|Hacer reservaciones online |**Como** cliente de restaurante premium **quiero** hacer reservas online **para** asegurar mi lugar en el restaurante |3|
 # [Capítulo IV: Product Design.](#capítulo-iv-product-design)
 ## [4.1. Style Guidelines.](#style-guidelines)
 ### [4.1.1. General Style Guidelines.](#general-style-guidelines)
