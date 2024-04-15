@@ -78,7 +78,7 @@ GitHub nos permite exponer una linea de tiempo de nuestras ramas principales y e
 Los integrantes del equipo son:
 
 * Nicolas Vera (nicxlxs)
-* Fabiola Becerra
+* Fabiola Becerra (fabidayanee)
 
 **Student Outcomes**
 
