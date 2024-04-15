@@ -198,7 +198,6 @@ En muchas ocasiones, las personas enfrentan el dilema de elegir un restaurante p
 
 Esta problemática afecta tanto a los consumidores, que se sienten abrumados por la cantidad de opciones y la falta de información, como a los restaurantes, que ven reducida su clientela y, por lo tanto, sus ingresos. Además, la falta de transparencia en la información sobre los restaurantes dificulta la competencia justa en el mercado gastronómico. Por ello, este escenario destaca la necesidad de una solución.
 
-
 |**What (Qué)**|La amplia oferta gastronómica disponible y la falta de información sobre las opciones disponibles, la calidad de la comida y la experiencia general en cada establecimiento, generan un dilema al momento de elegir un restaurante para disfrutar de una comida satisfactoria.|
 | :-: | :- |
 |**When (Cuándo)**|Esta situación se presenta de manera constante, ya que la falta de información sobre restaurantes es un problema continuo para muchas personas.|
@@ -207,6 +206,7 @@ Esta problemática afecta tanto a los consumidores, que se sienten abrumados por
 |**Why (Por qué)**|<p>Existen diversas razones para los consumidores y los restaurantes:</p><p>- La amplia oferta gastronómica disponible</p><p>- La falta de información sobre las opciones disponibles</p><p>- La experiencia general en cada establecimiento</p><p>- La poca publicidad de los restaurantes</p><p></p>|
 |**How (Cómo)**|La falta de información detallada sobre los restaurantes dificulta a los consumidores tomar decisiones informadas sobre dónde comer, lo que resulta en una menor afluencia de público hacia estos establecimientos y un bajo consumo en ellos.|
 |**How much (Cuánto)**|Según las estadísticas de la INEI, la actividad de restaurantes (servicios de comidas y bebidas) se contrajo en 1,90% en el décimo mes del año 2023, con reportes en baja de tres de sus cuatro componentes. Ademas, el grupo de restaurantes mostró una variación de -5,66%, por menor actividad en los negocios de pollerías, carnes y parrillas, restaurantes, comidas rápidas, cevicherías, restaurantes turísticos, heladerías y chifas. El principal motivo es la menor afluencia de comensales y el incremento de precios a la carta.|
+
 
 ### [1.2.2 Lean UX Process](#lean-ux-process)
 #### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
