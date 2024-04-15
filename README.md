@@ -404,6 +404,10 @@ Hicimos uso de la tendencia web functional minimalism. Utilizamos el color beige
 En este ámbito, nos estructuramos de forma jerárquica. Este enfoque implica la creación de elementos visuales que ayudan al usuario a entender fácilmente. Los elementos más prominentes de nuestra página web ocupan el primer nivel jerárquico, atrayendo la atención de nuestros usuarios al ingresar, como los logotipos y los títulos. Los elementos asociados a subtítulos y campos de ingreso de información están en el segundo nivel. Por último, el tercer nivel comprende componentes secundarios como el icono de búsqueda y la foto de perfil.
 
 ### [4.2.2. Labeling Systems.](#labeling-systems)
+Hemos intentado reducir la cantidad de íconos utilizados para los enlaces y dar preferencia al texto en botones resaltados. Esto ayuda a mantener el diseño minimalista de la página de inicio. Además, utilizamos ilustraciones gratuitas para representar las características de nuestra propuesta.
+
+![Imgur](https://imgur.com/PxaO7xA.jpg)
+
 ### [4.2.3. SEO Tags and Meta Tags.](#seo-tags-and-meta-tags)
 
 ### [4.2.4. Searching Systems.](#searching-systems)
