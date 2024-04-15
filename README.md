@@ -593,6 +593,7 @@ Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&n
 
 ## [4.7. Software Object-Oriented Design.](#software-object-oriented-design)
 ### [4.7.1. Class Diagrams.](#class-diagrams)
+![Class Diagram](https://imgur.com/4nxiXsc.jpg)
 ### [4.7.2. Class Dictionary.](#class-dictionary)
 
 ## [4.8. Database Design.](#database-design)
