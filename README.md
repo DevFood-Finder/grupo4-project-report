@@ -422,6 +422,11 @@ El usuario podrá acceder a otra sección de la página al hacer clic en los enl
 
 Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&node-id=0%3A1&mode=design&t=bUA1hxzj2tAUT2Ml-1
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
+![Imgur](https://imgur.com/8Q6vAgM.jpg)
+![Imgur](https://imgur.com/ag2nISz.jpg)
+![Imgur](https://imgur.com/wNDXDUL.jpg)
+![Imgur](https://imgur.com/mhKGcFx.jpg)
+Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&node-id=0%3A1&mode=design&t=bUA1hxzj2tAUT2Ml-1 
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
 
