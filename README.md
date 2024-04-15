@@ -175,10 +175,17 @@ Los integrantes del equipo son:
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
 ### [1.1.1 Descripción de la Startup](#descripción-de-la-startup)
+Food Finder es una empresa que surge a partir de la necesidad de crear un software versátil, íntegro, adaptable y de calidad para la industria y gestión de salud. La misión de nuestra startup es conectar a las personas con experiencias gastronómicas excepcionales al proporcionar una plataforma intuitiva y conveniente para descubrir, explorar y reservar en restaurantes cercanos, fomentando así la exploración culinaria, la cultura y la conexión con la comunidad local.
 
+Misión:
+Nuestra misión es enriquecer la vida de las personas al conectarlas con experiencias gastronómicas excepcionales. A través de nuestra plataforma intuitiva y conveniente, facilitamos el descubrimiento, la exploración y la reserva en restaurantes cercanos, fomentando la exploración culinaria y fortaleciendo la conexión con la cultura y la comunidad local.
+
+Visión:
+Aspiramos a ser el líder global en soluciones de descubrimiento culinario, transformando la manera en que las personas experimentan la comida y la cultura gastronómica. Nuestro objetivo es crear una comunidad donde cada exploración culinaria enriquezca el conocimiento, el paladar y el vínculo con las culturas a nivel mundial, promoviendo un intercambio cultural vibrante y una comprensión más profunda a través de la gastronomía.
 
 **Logo del servicio**:
 
+![LogoFoodFinder](Images/LogoFoodFinder.png)
 
 
 ### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
