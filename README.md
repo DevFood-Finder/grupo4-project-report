@@ -389,9 +389,10 @@ Carlos
 
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
 **Sofia**
+![](Images/UserJourneyMapping1.jpg)
 
 **Carlos**
-
+![](Images/UserJourneyMapping2.jpg)
 ### [2.3.4. Empathy Mapping**](#234-empathy-mapping)
 **Sofia**
 
