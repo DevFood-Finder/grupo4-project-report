@@ -409,6 +409,7 @@ Preguntas para los restaurantes del mercado:
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
 ## [2.3 Needfinding](#needfinding)
+En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos. Aquí se incluyen secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 
 ### [2.3.1 User Personas](#user-personas)
 ![](Images/UserPersona1.png)
