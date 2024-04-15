@@ -414,6 +414,13 @@ Se utilizará un sistema de filtros para encontrar restaurantes. Entre los filtr
 El usuario podrá acceder a otra sección de la página al hacer clic en los enlaces etiquetados, los cuales estarán asociados con el contenido de la etiqueta, y estarán ubicados en los encabezados de la página. Para exhibir nuestros diseños, emplearemos un encabezado que los dirigirá a secciones específicas al hacer clic en "Características", "Testimonios" y "Planes". Además, se añadirán botones para simplificar la navegación del usuario si encuentra algún contenido de interés en la página principal.
 ## [4.3. Landing Page UI Design](#landing-page-ui-design)
 ### [4.3.1. Landing Page Wireframe.](#landing-page-wireframe)
+
+![Imgur](https://imgur.com/rdFRTnQ.jpg)
+![Imgur](https://imgur.com/t5EBZvg.jpg)
+![Imgur](https://imgur.com/6oSyaDh.jpg)
+![Imgur](https://imgur.com/Cq5HWoW.jpg)
+
+Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&node-id=0%3A1&mode=design&t=bUA1hxzj2tAUT2Ml-1
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
