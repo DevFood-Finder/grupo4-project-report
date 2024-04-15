@@ -338,8 +338,12 @@ El spacing mantiene:
 #### Dimension
 La dimensión para adoptar en cuanto al diseño es un tono agradable y semi formal, aplicando colores relacionados con la comida como el anaranjado presentado y tonos más serios como el rojo y oliva presentados. Asimismo, para el diseño de los íconos y formas adoptaremos diseños amigables al usuario utilizando bordes curvos en su mayoría.
 
+[Captura Hero image](https://imgur.com/20SoX5I.jpg)
+
 
 ### [4.1.2. Web Style Guidelines.](#web-style-guidelines)
+Hicimos uso de la tendencia web functional minimalism. Utilizamos el color beige claro como predominante en el fondo de la mayoría de secciones. Además, utilizamos una imagen de alta definición para la sección hero, debajo de la barra de navegación.
+
 
 ## [4.2. Information Architecture.](#information-architecture)
 ### [4.2.1. Organization Systems.](#organization-systems)
