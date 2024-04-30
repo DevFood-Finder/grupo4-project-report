@@ -923,6 +923,54 @@ En este archivo de formato feature estarán las historias de usuario como caract
 
 # [6.Conclusiones.](#conclusiones)
 
+Conclusiones y recomendaciones
+
+Como principal conclusión de esta etapa del proyecto Meal Master, logramos alcanzar los siguientes hitos:
+
+Nos permitió desarrollar una solución enfocada y relevante después de realizar una investigación previa exhaustiva para comprender a fondo la problemática a abordar, identificando los segmentos objetivos involucrados y sus necesidades específicas.
+
+Al aplicar el proceso Lean UX, que incluye ciclos de construcción, medición y aprendizaje, pudimos refinar y mejorar nuestras ideas del proyecto para optimizar la experiencia del usuario y garantizar que nuestras soluciones fueran efectivas y satisfactorias.
+
+La realización de entrevistas con los segmentos objetivo nos permitió obtener una comprensión profunda y empática de sus necesidades, deseos y preferencias, algo fundamental para el desarrollo de una solución adecuada.
+
+La elección de las herramientas, lenguajes de programación, marcos y marcadores hipertextuales más apropiados para nuestro proyecto garantizó la eficiencia y efectividad de la implementación de la solución.
+
+Utilizar las herramientas Git y GitHub para organizar las bases del repositorio nos permitió tener un control preciso de las versiones del proyecto, facilitar el trabajo colaborativo y garantizar la integridad del código fuente.
+
+El uso de Git Flow como flujo de trabajo ha demostrado ser útil para la gestión del desarrollo del proyecto, ya que nos permite trabajar en equipo, integrar nuevas funciones y realizar cambios de manera segura.
+El diseño del ciclo de vida del producto basado en el marco de trabajo SCRUM nos dio una estructura clara para la planificación, el desarrollo, la revisión y la entrega del producto, lo que permitió una gestión ágil y eficiente del proyecto.
+
+Conclusiones (TP1)
+Se desarrollaron las siguientes conclusiones relacionadas a esta segunda entrega: 
+
+La adopción de Pivotal Tracker como herramienta de gestión de sprints demuestra una buena práctica en la metodología ágil, ya que el uso de esta herramienta ayudó mucho a organizar y priorizar las User Stories, facilitando la planificación y seguimiento del progreso del proyecto.
+
+La asignación de puntos de historia y la correcta estructuración de las historias de los usuarios demuestran un enfoque sólido hacia la estimación del esfuerzo requerido para completar cada tarea, lo que permite una mejor planificación y asignación de recursos en sprints posteriores. 
+
+El desarrollo y despliegue exitoso de una aplicación web frontend con vueJS es un logro significativo porque demuestra las habilidades técnicas del equipo de desarrollo y su capacidad para implementar soluciones funcionales utilizando tecnologías modernas. 
+
+La evidencia de la implementación de todas las historias de los usuarios indica un cumplimiento exitoso de los requisitos planteados en el inventario de productos, ya que el equipo ha logrado abordar y completar todas las tareas planificadas para la ronda. 
+
+La utilización de una nomenclatura clara y consistente para los commits en el repositorio de GitHub es una buena práctica de desarrollo colaborativo que facilita bastante la comprensión y el seguimiento de los cambios realizados en el código fuente y mejora la colaboración entre los miembros del equipo. 
+
+El uso de Angular como tecnología principal en la aplicación web frontend muestra la capacidad del equipo para utilizar tecnologías modernas, lo que puede mejorar la experiencia del usuario final.
+
+
 # [7.Bibliografía.](#bibliografía)
 
+W3Schools. (s.f.). HTML5 Syntax. Recuperado de
+	https://www.w3schools.com/html/html5_syntax.asp
+Google. (s.f.). HTML/CSS Style Guide. Recuperado de https://google.github.io/styleguide/htmlcssguide.html
+SpecFlow. (s.f.). Gherkin - Conventions for Readable Specifications. Recuperado de https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+Angular. (s.f.). Angular Style Guide. Recuperado de 
+https://angular.io/guide/styleguide
+Google. (s.f.). Google Java Style Guide. Recuperado de https://google.github.io/styleguide/javaguide.html
+Google. (s.f.). TypeScript Style Guide. Recuperado de https://google.github.io/styleguide/tsguide.html
+Spring Boot. (s.f.). Spring Boot Features. Recuperado de https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
+
+
 # [8.Anexos.](#anexos)
+Anexo A: Tabla con detalles de nuevos vídeos
+
+Carpeta con todos los videos en Microsoft Steam: Apps Web
+
