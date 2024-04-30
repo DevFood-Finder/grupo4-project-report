@@ -646,7 +646,7 @@ Para esta sección, se presentan los user flow diagrams, los cuales son diagrama
 
 ## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
 ### [4.6.1. Software Architecture Context Diagram.](#software-architecture-context-diagram)
-![Imgur](Images/Software_Architecture_Context_Diagram.png)
+![Imgur](Images/SoftwareArchitectureContextDiagram.png)
 ### [4.6.2. Software Architecture Container Diagrams.](#software-architecture-container-diagrams)
 ![Imgur](Images/SoftwareArchitectureContainerDiagrams.png)
 ### [4.6.3. Software Architecture Components Diagrams.](#software-architecture-components-diagrams)
