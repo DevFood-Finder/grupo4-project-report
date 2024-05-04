@@ -798,6 +798,8 @@ Para esta sección, se presentan los user flow diagrams, los cuales son diagrama
 ## [4.8. Database Design.](#database-design)
 ### [4.8.1. Database Diagram.](#database-diagram)
 
+![Base de Datos](Images/Basededatos.drawio.png)
+
 # [Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 ## [5.1. Software Configuration Management.](#software-configuration-management)
 ### [5.1.1. Software Development Environment Configuration.](#software-development-environment-configuration)
