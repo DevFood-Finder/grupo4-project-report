@@ -406,6 +406,35 @@ Preguntas para los restaurantes del mercado:
 
 ### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
 
+**Segmento objetivo 1: Clientes en busca de restaurantes**
+
+**Entrevista 1: **
+![Entrevista 1](Images/Entrevista1.png)
+
+**URL del video completo:** 
+
+https://youtu.be/jDqrjkgb8-Ahttps://youtu.be/jDqrjkgb8-A 
+
+**Timing: 6:90**
+
+**Resumen:** La entrevista fue realizada a Brenda Calderon. Es una estudiante de la carrera de derecho que por tema de sus estudios casi siempre termina almorzando o cenando en la calle.
+Durante estos meses ha estado comiendo en los mismos restaurantes y cuando busca algo nuevo a través de reseñas, no le termina de convencer. Sin embargo, Brenda  en algunas ocasiones sí ha logrado encontrar un restaurante que cumpla con lo que buscaba, pero le ha tomado mucho tiempo encontrar estos restaurantes. Por ello, nos comenta que una aplicación que ayude a encontrar restaurantes que estén cerca de su ubicación le facilita mucho el tiempo que tarda en buscar en distintas redes sociales.
+
+
+**Segmento objetivo 2: Freelancers (Dueña de restaurante)**
+
+**Entrevista 2:**
+![Entrevista 2](Images/Entrevista2.png)
+
+**URL del video completo:** 
+
+https://youtu.be/5UH6SXBIqoE
+
+**Timing: 4:30**
+
+**Resumen:** La entrevista fue realizada a Giordano Pino. El trabaja en el restaurante familiar de su madre, él cumple con el rol de jefe del área de marketing con la finalidad de promocionar el restaurante y que este se haga más conocido. Durante estos meses ha utilizado solo las redes sociales como instagram, facebook y tiktok para poder promocionar el restaurante. Sin embargo, no ha recibido el reconocimiento y el apoyo que él pensaba y por eso ha estado buscando diferentes formas de promocionarlo. De hecho nos comenta que le gustaría que para final de año el restaurante sea más conocido para poder generar más ingresos y poder expandir su menú. Por último, nos comenta que una aplicación que ayude a promocionar restaurantes conocidos y no tan conocidos beneficiaría a muchos de estos que buscan tener un mayor alcance hacia las personas. 
+
+
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
 ## [2.3 Needfinding](#needfinding)
