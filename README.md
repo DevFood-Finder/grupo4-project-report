@@ -457,6 +457,14 @@ https://youtu.be/5UH6SXBIqoE
 
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
+**Análisis por segmento 1:**  Clientes en busca de servicios
+	
+Ambas entrevistas muestran las dificultades que enfrentan los clientes al buscar restaurantes, lo que demuestra la necesidad de herramientas más eficientes y personalizadas para encontrar nuevas opciones gastronómicas. Diego Servan reconoce la limitación de sus opciones debido a su falta de exploración más allá de las recomendaciones de redes sociales, mientras que Brenda Calderón destaca la dificultad de encontrar restaurantes que cumplan con sus expectativas a través de reseñas en línea. Ambos expresan su interés en una aplicación que les ayude a descubrir nuevos lugares de manera eficiente, destacando la importancia de la conveniencia y la personalización en la experiencia del usuario al buscar restaurantes. Por último, estas entrevistas destacan la necesidad de herramientas novedosas que simplifiquen la búsqueda y proporcionan recomendaciones que se ajusten a las preferencias individuales de los clientes.
+
+**Análisis por segmento 2:**  Freelancers
+
+Como se puede ver en las entrevistas con Andrea y Giordano, los dueños de restaurantes freelancers a menudo enfrentan desafíos en la promoción y la publicidad de sus negocios. Ambos tienen dificultades para atraer clientes y aumentar los ingresos a pesar de sus esfuerzos de marketing, lo que demuestra la necesidad de estrategias de promoción más efectivas. Su interés en una aplicación que pueda destacar las características distintivas de sus restaurantes indica que reconoce el potencial de herramientas innovadoras para satisfacer estas necesidades y conectarse con un público más amplio. Este análisis destaca el valor de crear herramientas de marketing específicas para las pequeñas empresas gastronómicas para aumentar su visibilidad y éxito en un mercado competitivo.
+
 ## [2.3 Needfinding](#needfinding)
 En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos. Aquí se incluyen secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 
