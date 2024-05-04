@@ -417,6 +417,18 @@ https://youtu.be/jDqrjkgb8-Ahttps://youtu.be/jDqrjkgb8-A
 La entrevista fue realizada a Brenda Calderon. Es una estudiante de la carrera de derecho que por tema de sus estudios casi siempre termina almorzando o cenando en la calle.
 Durante estos meses ha estado comiendo en los mismos restaurantes y cuando busca algo nuevo a través de reseñas, no le termina de convencer. Sin embargo, Brenda  en algunas ocasiones sí ha logrado encontrar un restaurante que cumpla con lo que buscaba, pero le ha tomado mucho tiempo encontrar estos restaurantes. Por ello, nos comenta que una aplicación que ayude a encontrar restaurantes que estén cerca de su ubicación le facilita mucho el tiempo que tarda en buscar en distintas redes sociales.
 
+**Entrevista 2:**
+![](Images/EntrevistaDiego.png)
+**URL del video completo:**
+https://youtu.be/eCeCB9lPBHw
+
+**Timing: 08:42 min**
+Resumen:
+La entrevista fue realizada a Diego Servan. Es Ingeniero Industrial y trabaja hace más de 1 año, trabaja en un banco muy conocido en el área de riesgos, brinda seguridad ante cualquier fraude o atentado hacia su establecimiento de trabajo y a su vez brindan soluciones ante esto.
+Durante estos meses ha logrado combatir con la falta de conocimiento de otros tipos de restaurantes cercanos al de él, ya que no buscaba por aplicaciones conocidas y solo se dejaba influenciar por las redes sociales que recomiendan algunos restaurantes.Sin embargo, Diego ha ido visitando distintos restaurantes y no siempre se ha logrado llevar una buena impresión.  De hecho, nos comenta que le gustaría obtener mayor visibilidad de todo tipo de restaurante para que pueda visitarlo, ya sea por la gastronomía, localidad, ambiente, etc.
+Por último, nos comenta que una aplicación que ayude a conocer un buen restaurante realizando algunos filtros de búsqueda sería excelente, ya que lograría ahorrar tiempo en la búsqueda y en la reserva.
+
+
 
 **Segmento objetivo 2: Freelancers (Dueña de restaurante)**
 **Entrevista 1:**
