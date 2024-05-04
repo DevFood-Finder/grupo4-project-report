@@ -465,10 +465,12 @@ Carlos
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
-**Impact mapping 1: Jefe de restaurante**
-![impact map jefe de restaurante](https://imgur.com/DmW1Hsb.jpg)
-**Impact mapping 2: Cliente del restaurante**
-![impact cliente del restuarante](https://imgur.com/YAq3W4w.jpg)
+**To-Be Scenario Mapping 1:  Clientes en busca de servicios (Comensales)**
+![To-be 1](Images/to-be-scenario.png)
+
+**To-Be Scenario Mapping 2: Freelancers (Dueños de restaurantes)**
+![To-be 2](Images/to-be-scenario2.png)
+
 ## [3.2. User Stories.](#user-stories)
 |**Epic / Story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
 | :-: | :-: | :-: | :-: | :-: |
