@@ -422,6 +422,17 @@ Durante estos meses ha estado comiendo en los mismos restaurantes y cuando busca
 
 
 **Segmento objetivo 2: Freelancers (Dueña de restaurante)**
+**Entrevista 1:**
+![Entrevista 1](Images/entrevistaandrea.png)
+**URL del video completo:**
+https://youtu.be/Lpu_8pm6kPY 
+
+
+**Timing: 09:26 min**
+**Resumen:**
+La entrevista fue realizada a Andrea Estrada. Es administradora de empresas desde hace 2 años, trabaja en una empresa de venta de etiquetas evaluando los requerimientos de la empresa en la cual trabaja, brinda prioridad al crecimiento de la empresa.
+Durante estos meses ha logrado combatir con la falta de conocimiento de otros tipos de restaurantes cercanos al de ella, ya que se encuentra enfocada en su restaurante, pero no ha logrado obtener la cantidad de personas visitadas. Sin embargo, Andrea se ha ido apoyando de realizar publicidad mediante flyers, post en redes sociales, posters afuera de su restaurante para que las personas que pasen por el lugar logren ingresar y probar su sazón.  De hecho, nos comenta que le gustaría obtener mayor visibilidad de su restaurante para que más gente la visite y logre generar más ingresos.
+Por último, nos comenta que una aplicación que ayude a conocer su restaurante por su sazón, buen lugar y un adecuado servicio sería una idea excelente y muy interesante, ya que necesita ese servicio porque no ha logrado obtener muchas visitas a su negocio.
 
 **Entrevista 2:**
 ![Entrevista 2](Images/Entrevista2.png)
