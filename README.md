@@ -407,17 +407,14 @@ Preguntas para los restaurantes del mercado:
 ### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
 
 **Segmento objetivo 1: Clientes en busca de restaurantes**
-
-**Entrevista 1: **
+**Entrevista 1:**
 ![Entrevista 1](Images/Entrevista1.png)
-
 **URL del video completo:** 
-
 https://youtu.be/jDqrjkgb8-Ahttps://youtu.be/jDqrjkgb8-A 
 
-**Timing: 6:90**
-
-**Resumen:** La entrevista fue realizada a Brenda Calderon. Es una estudiante de la carrera de derecho que por tema de sus estudios casi siempre termina almorzando o cenando en la calle.
+**Timing: 6:90 min**
+**Resumen:** 
+La entrevista fue realizada a Brenda Calderon. Es una estudiante de la carrera de derecho que por tema de sus estudios casi siempre termina almorzando o cenando en la calle.
 Durante estos meses ha estado comiendo en los mismos restaurantes y cuando busca algo nuevo a través de reseñas, no le termina de convencer. Sin embargo, Brenda  en algunas ocasiones sí ha logrado encontrar un restaurante que cumpla con lo que buscaba, pero le ha tomado mucho tiempo encontrar estos restaurantes. Por ello, nos comenta que una aplicación que ayude a encontrar restaurantes que estén cerca de su ubicación le facilita mucho el tiempo que tarda en buscar en distintas redes sociales.
 
 
