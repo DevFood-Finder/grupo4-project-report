@@ -469,7 +469,13 @@ Como se puede ver en las entrevistas con Andrea y Giordano, los dueños de resta
 En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos. Aquí se incluyen secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 
 ### [2.3.1 User Personas](#user-personas)
+En esta sección se muestran personajes ficticios que representan los segmentos objetivos que se identificaron y entrevistaron a través de personas del usuario. Los datos que se proporcionan incluyen la demografía, la personalidad, las motivaciones, las preferencias, los objetivos, los desafíos y los comportamientos del usuario, así como los detalles de cómo interactúa el usuario con productos similares. Las entrevistas previas respaldan los datos. La herramienta UXPressia, que facilita la creación de personas de usuario, se ha utilizado para desarrollar esta sección.
+
+**User Persona 1: Comensales**
+
 ![](Images/UserPersona1.png)
+
+**User Persona 1: Dueños de restaurantes**
 
 ![](Images/UserPersona2.png)
 
@@ -499,21 +505,35 @@ Carlos
 
 
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
+En esta sección se presentarán los user journey mapping para cada user persona (comensales y restaurantes). En cuanto al comensal, el journey comienza cuando busca nuevos restaurantes cerca a su ubicación, luego descubre Food Finder, comienza a usar el food finder y descubre todas las funciones. Por otro lado, el dueño de un restaurante inicia su journey accediendo a la plataforma de Food Finder y descubre de la conferencia de hospitalidad y tecnología. Luego decide usar la aplicación para obtener  más visibilidad de su negocio. Finalmente con su experiencia brinda una retroalimentación a Food Finder sobre mejoras de la plataforma.
+**Empathy Mapping 1: Clientes en busca de servicios (Comensales)**
+
 **Sofia**
 ![](Images/UserJourneyMapping1.jpg)
 
+**Empathy Mapping 2: Freelancers (Dueños de restaurantes)**
+
 **Carlos**
 ![](Images/UserJourneyMapping2.jpg)
+
 ### [2.3.4. Empathy Mapping**](#234-empathy-mapping)
+El mapeo de empatía, una herramienta para crear un perfil detallado de los usuarios y desarrollar una comprensión profunda de sus perspectivas y experiencias, se presenta en esta sección. Se incluyen cinco elementos clave para cada usuario: lo que ve, lo que escucha, lo que dice, lo que hace y lo que siente. Además, se incluyen los beneficios y beneficios determinados en función de las preguntas: ¿Cuáles son sus preocupaciones? Y, ¿qué puede ayudarle a solucionar sus problemas? ¿Qué puede persuadirlo de que somos la opción adecuada? ¿Qué está diciendo? La herramienta Figma se utilizó para crear mapas de empatía.
+**Empathy Mapping 1: Clientes en busca de servicios (Comensales)**
 **Sofia**
 ![](Images/EmpathyMapping1.png)
+
+**Empathy Mapping 2: Freelancers (Dueños de restaurantes)**
 
 **Carlos**
 ![](Images/EmpathyMapping2.png)
 
 ### [2.3.5 As-is Scenario Mapping](#as-is-scenario-mapping)
+En esta sección se presentan los As-is Scenario mapping para ambos segmentos objetivos donde se identifican y comprenden los puntos de contacto entre el usuario y el software. Para la elaboración se ha utilizado la herramienta Miro.
+**Empathy Mapping 1: Clientes en busca de servicios (Comensales)**
+
 **Sofia**
 ![](Images/As-IsMapping1.jpg)
+**Empathy Mapping 2: Freelancers (Dueños de restaurantes)**
 
 **Carlos**
 ![](Images/As-IsMapping2.jpg)
@@ -522,6 +542,8 @@ Carlos
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
+En esta sección se presentan los mapas de secuencia previstos para cada segmento objetivo, que mostrarán la experiencia de usuario ideal si se abordan los puntos de dolor y necesidades. La herramienta utilizada para su creación fue Lucidchart.
+
 **To-Be Scenario Mapping 1:  Clientes en busca de servicios (Comensales)**
 ![To-be 1](Images/to-be-scenario.png)
 
