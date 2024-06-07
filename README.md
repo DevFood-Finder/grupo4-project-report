@@ -1008,7 +1008,7 @@ En este archivo de formato feature estarán las historias de usuario como caract
 
 Conclusiones y recomendaciones
 
-Como principal conclusión de esta etapa del proyecto Meal Master, logramos alcanzar los siguientes hitos:
+Como principal conclusión de esta etapa del proyecto FoodFinder, logramos alcanzar los siguientes hitos:
 
 Nos permitió desarrollar una solución enfocada y relevante después de realizar una investigación previa exhaustiva para comprender a fondo la problemática a abordar, identificando los segmentos objetivos involucrados y sus necesidades específicas.
 
