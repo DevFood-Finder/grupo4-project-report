@@ -69,6 +69,7 @@ Los integrantes del equipo son:
 
 * Nicolas Vera (nicxlxs)
 * Fabiola Becerra (fabidayanee)
+* Carlos Chávez (CarlosChavez19)
 
 **Student Outcomes**
 
