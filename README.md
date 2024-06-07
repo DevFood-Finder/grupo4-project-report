@@ -62,16 +62,6 @@
 # Project Report Collaboration Insights
 URL del repositorio para el reporte del proyecto: https://github.com/DevFood-Finder/grupo4-project-report 
 
-**TB1**
-Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la responsabilidad de redactar las distintas secciones de la siguiente manera entre cada miembro del equipo:
-
-|Integrante|Tareas Asignadas|
-|---|---|
-|||
-|||
-|||
-|||
-
 ## GitHub Insights
 GitHub nos permite exponer una linea de tiempo de nuestras ramas principales y el proceso al que se han sometido. Tdodas las ramas creadas fue en base al diseño de GitFlow para una buena organización y control de versiones.
 
