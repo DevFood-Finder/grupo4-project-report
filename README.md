@@ -1,11 +1,11 @@
 <br />
 
-<div align="center">
+<div>
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
 ![LogoUpc](Images/upcLogo.png)
 
-  <p align="center">
+  <p>
     Ingeniería de Software - 202401
     <br />
     SW58 - Desarollo de Apliaciones Open Source
@@ -19,7 +19,7 @@
     Proyecto: FoodFinder
   </p>
 
-   <table border="1">
+   <table>
         <tr> 
             <th>Alumno</th>
             <th>Codigo</th>
@@ -42,7 +42,7 @@
         </tr>
     </table>
 
-  <p align="center">
+  <p"center">
     Abril-2024
   </p>
 
