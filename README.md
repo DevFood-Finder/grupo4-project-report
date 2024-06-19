@@ -50,14 +50,12 @@
 
 
 # Registro de Versiones del Informe
-|Versión|Fecha| Autor                                              |Descripción de modificación|
-|-------|-----|----------------------------------------------------|---------------------------|
-|V0.1|6/04/2024| Nicolas                                            |Creación del repositorio|
-|V0.2|07/04/2024| Nicolas                                  | Capitulo 1, Capitulo 2 y parte del Capitulo 4|
-|V0.2.1|07/04/2024|                                            |Capitulo 3|
-|V0.3|10/04/2024| Fabiola                     |Capitulo 2, capitulo 2 y parte del capitulo 4|
-|V0.4|11/04/2024| Nicolas |Capitulo 5 y ultimos ajuste|
-|V1.0|12/04/2024| Nicolas |Revision final y entrega TB1.|
+|Versión|Fecha| Autor    |Descripción de modificación|
+|-------|-----|----------|---------------------------|
+|TB1|06/04/2024|FoodFinder|Se han incluido los  capítulos: <li> Capítulo I: Introducción<li> Capítulo II: Requirements Elicitation & Analysis<li> Capítulo III: Requirements Specification<li> Capítulo IV: Product Design<li> Capítulo V: Product Implementation, Validation & Deployment<li> Avance de Conclusiones, Bibliografía y Anexos|
+|TP|02/05/2024|FoodFinder| Mejora continua: <li> User stories, As-Is Scenario Mapping, To-Be Scenario Mapping y Product Backlog.<li> Avance aplicación web y deployment con sprint 2|
+|TB2|05/06/2024|FoodFinder|Mejora continua:<li> User stories<li> Sprint 3<li> Implementación de funciones adicionales en landing page, avance aplicación front-end y back-end de aplicación web|
+|TF|10/04/2024|FoodFinder|Mejora continua: <li> Documentación de endpoints<li> Sprint 4<li> Implementación de funciones adicionales en landing page, vistas de aplicación front-end y back-end de aplicación web con sus respectivos despliegues.<li> Integración de los endpoints de backend con la aplicación front-end.|
 
 # Project Report Collaboration Insights
 URL del repositorio para el reporte del proyecto: https://github.com/DevFood-Finder/grupo4-project-report 
