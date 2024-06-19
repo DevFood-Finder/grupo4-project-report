@@ -865,12 +865,31 @@ Para la realización de pruebas de testeo de software  que se ha utilizado para
     La plataforma Vertabelo es una aplicación web colaborativa la cual ha sido empleada para la elaboración del diseño de base de datos.
 ### [5.1.2. Source Code Management.](#source-code-management)
 
-|Integrantes| Cuenta de GitHub      |
-|---------|-----------------------|
-|||
-|||
-|||
-|Vera Nuñez, Nicolas Alejandro|nicolas.vera.nunez.2004@gmail.com|
+Se ha creado una organización en Github con los miembros del grupo y un repositorio para el landing page.
+- Organización: https://github.com/DevFood-Finder 
+- Repositorio landing page: https://github.com/DevFood-Finder/foodfinder-landing 
+- Despliegue de landing page en GithubPages: https://devfood-finder.github.io/foodfinder-landing/ 
+
+Las ramas principales en el Gitflow serán las ramas developer y master, donde developer será la principal rama de trabajo, mientras que la rama master tendrá la versión final de la web desplegada en Github pages. Por otro lado, se utilizarán ramas secundarias con el nombre de los features que se estén trabajando (hero, navbar branches por ejemplo). Asimismo, se incluyen el branches para release (branch release) y hotfix (branch hotfix).
+
+**Commit Conventions**
+
+Para los commits en Github se han utilizado los estándares convencionales versión 1.1.0 (https://www.conventionalcommits.org/en/v1.0.0/) según la estructura:
+
+    <type>[optional scope]: <description>
+
+- Type: representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
+- Optional scope: es opcional y representa el alcance del commit.
+- Description: descripción detallada del commit y acciones realizadas.
+
+**Semantic Versioning**
+
+Los releases se realizan según los estándares de Semantinc Versioning 2.0 (https://semver.org/), según el formato MAJOR.MINOR.PATCH.
+- MAJOR: versión mayor cuando se implementa cambios de APIs incompatibles.
+- MINOR: versión menor cuando se añaden features y funcionalidades nuevas.
+- PATCH versión de parche de bug fixes y hotfixes.
+
+
 
 ### [5.1.3. Source Code Style Guide \& Conventions.](#source-code-style-guide--conventions)
 **HTML:** [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
