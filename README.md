@@ -107,7 +107,6 @@ Los integrantes del equipo son:
         - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
         - [**2.3.4. Empathy Mapping**](#234-empathy-mapping)
         - [**2.3.5. As-is Scenario Mapping**](#235-as-is-scenario-mapping)
-    - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
     - [**3.1. To-Be Scenario Mapping.**](#31-to-be-scenario-mapping)
     - [**3.2.User Stories.**](#32user-stories)
@@ -530,8 +529,6 @@ En esta sección se presentan los As-is Scenario mapping para ambos segmentos ob
 **Carlos**
 ![](Images/As-IsMapping2.jpg)
 
-## [2.4 Ubiquitous Language](#ubiquitous-language)
-
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
 En esta sección se presentan los mapas de secuencia previstos para cada segmento objetivo, que mostrarán la experiencia de usuario ideal si se abordan los puntos de dolor y necesidades. La herramienta utilizada para su creación fue Lucidchart.
@@ -696,8 +693,29 @@ Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&n
 
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
 
-![Imgur](https://imgur.com/jYOlbBR.jpg)
-![Imgur](https://imgur.com/xbnKNj0.jpg)
+**Registro de comensales**
+
+![web-app-wireframes](Images/appwrfrm1.png)
+
+**Iniciar sesion para los comensales**
+
+![web-app-wireframes](Images/appwrfrm2.png)
+
+**Registro de dueño de restaurante**
+
+![web-app-wireframes](Images/appwrfrm3.png)
+
+**Iniciar sesion de dueño de restaurante**
+
+![web-app-wireframes](Images/appwrfrm4.png)
+
+**Restablecer contraseñas para ambos segmentos**
+
+![web-app-wireframes](Images/appwrfrm5.png)
+
+**Inicio de la aplicacion**
+
+![web-app-wireframes](Images/appwrfrm6.png)
 
 Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&node-id=0%3A1&mode=design&t=bUA1hxzj2tAUT2Ml-1 
 ### [4.4.2. Web Applications Wireflow Diagrams.](#web-applications-wireflow-diagrams)
@@ -792,7 +810,7 @@ Para esta sección, se presentan los user flow diagrams, los cuales son diagrama
 
 ![Base de Datos](Images/Basededatos.drawio.png)
 
-# [Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
+# [Capítulo V: Product Implementation, Validation \& Deployment.](#capítulo-v-product-implementation-validation--deployment)
 ## [5.1. Software Configuration Management.](#software-configuration-management)
 ### [5.1.1. Software Development Environment Configuration.](#software-development-environment-configuration)
 A continuación, daremos a conocer los productos de software que hemos utilizado para el desarrollo de nuestro proyecto.
