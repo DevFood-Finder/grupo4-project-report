@@ -182,7 +182,11 @@ Aspiramos a ser el líder global en soluciones de descubrimiento culinario, tran
 
 
 ### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
-
+|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
+|-|-|-|-|
+|Vera Nuñez, Nicolas Alejandro ![Integrante](images/nicolas.png)|U202114545 |Ingenieria de software|Tengo 19 años y estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me apasiona la tecnología y la capacidad que tiene para resolver problemas de la vida cotidiana. Soy una persona eficiente, comprometida, creativa y apasionada por el desarrollo de software. Además, cuento con habilidades básicas en python y javascript.  Tengo un fuerte interés en adquirir nuevos conocimientos y aplicarlos en distintos proyectos que tienen la finalidad de buscar la innovación.|
+|Chávez Rojas, Carlos Raúl Guillermo ![Integrante](images/carlos.jpg)|U201910317|Ingenieria de software|Tengo 22 años y estudió la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me apasiona el mundo digital y la capacidad de la tecnología para solucionar problemas y crear nuevas experiencias. Soy una persona proactiva, responsable y con gran capacidad de aprendizaje. Tengo un fuerte interés por la investigación y la innovación, y estoy siempre buscando nuevas formas de mejorar mis habilidades y conocimientos.|
+|Becerra Llempen, Fabiola Dayane ![Integrante](images/fabiola.png)|U20171a518|Ingenieria de software|Soy Fabiola Becerra, actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una apasionada de la tecnología e innovación, utilizando todas las herramientas de software disponibles. Me considero una persona dinámica, responsable y con muchas ganas de enfrentar nuevos retos y experiencias. Mis temas de interés son la inteligencia artificial y la innovación en estos campos. Siempre estoy al tanto de los temas actuales para reforzar mis conocimientos y mejorar mis habilidades blandas. Por último, me siento capacitada para colaborar en equipo y asimilar con rapidez nuevos aprendizajes.|
 
 ## [1.2 Solution Profile](#solution-profile)
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
