@@ -184,9 +184,9 @@ Aspiramos a ser el líder global en soluciones de descubrimiento culinario, tran
 ### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-|Vera Nuñez, Nicolas Alejandro ![Integrante](images/nicolas.png)|U202114545 |Ingenieria de software|Tengo 19 años y estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me apasiona la tecnología y la capacidad que tiene para resolver problemas de la vida cotidiana. Soy una persona eficiente, comprometida, creativa y apasionada por el desarrollo de software. Además, cuento con habilidades básicas en python y javascript.  Tengo un fuerte interés en adquirir nuevos conocimientos y aplicarlos en distintos proyectos que tienen la finalidad de buscar la innovación.|
+|Vera Nuñez, Nicolas Alejandro ![Integrante](Images/nicolas.png)|U202114545 |Ingenieria de software|Tengo 19 años y estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me apasiona la tecnología y la capacidad que tiene para resolver problemas de la vida cotidiana. Soy una persona eficiente, comprometida, creativa y apasionada por el desarrollo de software. Además, cuento con habilidades básicas en python y javascript.  Tengo un fuerte interés en adquirir nuevos conocimientos y aplicarlos en distintos proyectos que tienen la finalidad de buscar la innovación.|
 |Chávez Rojas, Carlos Raúl Guillermo ![Integrante](Images/carlos.jpeg)|U201910317|Ingenieria de software|Tengo 22 años y estudió la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me apasiona el mundo digital y la capacidad de la tecnología para solucionar problemas y crear nuevas experiencias. Soy una persona proactiva, responsable y con gran capacidad de aprendizaje. Tengo un fuerte interés por la investigación y la innovación, y estoy siempre buscando nuevas formas de mejorar mis habilidades y conocimientos.|
-|Becerra Llempen, Fabiola Dayane ![Integrante](images/fabiola.png)|U20171a518|Ingenieria de software|Soy Fabiola Becerra, actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una apasionada de la tecnología e innovación, utilizando todas las herramientas de software disponibles. Me considero una persona dinámica, responsable y con muchas ganas de enfrentar nuevos retos y experiencias. Mis temas de interés son la inteligencia artificial y la innovación en estos campos. Siempre estoy al tanto de los temas actuales para reforzar mis conocimientos y mejorar mis habilidades blandas. Por último, me siento capacitada para colaborar en equipo y asimilar con rapidez nuevos aprendizajes.|
+|Becerra Llempen, Fabiola Dayane ![Integrante](Images/fabiola.png)|U20171a518|Ingenieria de software|Soy Fabiola Becerra, actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una apasionada de la tecnología e innovación, utilizando todas las herramientas de software disponibles. Me considero una persona dinámica, responsable y con muchas ganas de enfrentar nuevos retos y experiencias. Mis temas de interés son la inteligencia artificial y la innovación en estos campos. Siempre estoy al tanto de los temas actuales para reforzar mis conocimientos y mejorar mis habilidades blandas. Por último, me siento capacitada para colaborar en equipo y asimilar con rapidez nuevos aprendizajes.|
 
 ## [1.2 Solution Profile](#solution-profile)
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
@@ -228,25 +228,25 @@ Esta problemática afecta tanto a los consumidores, que se sienten abrumados por
 
 **Business Assumptions**
 
-**-Creo que mis usuarios necesitan** una forma sencilla y rápida de encontrar restaurantes cercanos que se ajusten a sus preferencias culinarias, con la opción de explorar menús y hacer reservas directamente desde una sola plataforma.
+- **Creo que mis usuarios necesitan** una forma sencilla y rápida de encontrar restaurantes cercanos que se ajusten a sus preferencias culinarias, con la opción de explorar menús y hacer reservas directamente desde una sola plataforma.
 
-**-Estas necesidades se pueden resolver** mediante una plataforma web y móvil intuitiva que use tecnología de geolocalización para sugerir restaurantes, proporcionando información detallada, reseñas de usuarios, menús completos y la opción de reserva en línea para los usuarios premium.
+- **Estas necesidades se pueden resolver** mediante una plataforma web y móvil intuitiva que use tecnología de geolocalización para sugerir restaurantes, proporcionando información detallada, reseñas de usuarios, menús completos y la opción de reserva en línea para los usuarios premium.
 
-**-Mis clientes iniciales** serán jóvenes profesionales y familias que viven en áreas urbanas densamente pobladas, quienes valoran la conveniencia y buscan explorar diversas opciones culinarias cerca de ellos.
+- **Mis clientes iniciales** serán jóvenes profesionales y familias que viven en áreas urbanas densamente pobladas, quienes valoran la conveniencia y buscan explorar diversas opciones culinarias cerca de ellos.
 
-**-El valor #1 que el cliente requiere de mi servicio** es la capacidad de descubrir rápidamente restaurantes que se ajusten a sus necesidades específicas y gustos, con la facilidad de reservar una mesa sin necesidad de cambiar de aplicación o realizar llamadas telefónicas.
+- **-El valor #1 que el cliente requiere de mi servicio** es la capacidad de descubrir rápidamente restaurantes que se ajusten a sus necesidades específicas y gustos, con la facilidad de reservar una mesa sin necesidad de cambiar de aplicación o realizar llamadas telefónicas.
 
-**-El cliente también puede obtener estos servicios adicionales** como recomendaciones personalizadas basadas en su historial de búsqueda y preferencias, ofertas exclusivas para miembros premium, y la posibilidad de acumular puntos o recompensas por cada reserva realizada.
+- **El cliente también puede obtener estos servicios adicionales** como recomendaciones personalizadas basadas en su historial de búsqueda y preferencias, ofertas exclusivas para miembros premium, y la posibilidad de acumular puntos o recompensas por cada reserva realizada.
 
-**-Voy a adquirir a mis clientes a través de** campañas de marketing digital enfocadas en redes sociales, colaboraciones con influencers locales en el ámbito gastronómico, SEO local para asegurar una alta visibilidad en búsquedas relacionadas con restaurantes, y alianzas estratégicas con restaurantes para ofrecer promociones exclusivas.
+- **Voy a adquirir a mis clientes a través de** campañas de marketing digital enfocadas en redes sociales, colaboraciones con influencers locales en el ámbito gastronómico, SEO local para asegurar una alta visibilidad en búsquedas relacionadas con restaurantes, y alianzas estratégicas con restaurantes para ofrecer promociones exclusivas.
 
-**-Mi competencia en el mercado** incluye otras aplicaciones y sitios web de reseñas de restaurantes, así como plataformas de reserva en línea. Sin embargo, muchas de estas plataformas no ofrecen una experiencia de usuario integrada que combine descubrimiento, reseñas auténticas y reserva en una sola interfaz.
+- **Mi competencia en el mercado** incluye otras aplicaciones y sitios web de reseñas de restaurantes, así como plataformas de reserva en línea. Sin embargo, muchas de estas plataformas no ofrecen una experiencia de usuario integrada que combine descubrimiento, reseñas auténticas y reserva en una sola interfaz.
 
-**-Los venceremos debido** a nuestro enfoque en la personalización y la experiencia del usuario, ofreciendo no solo un servicio de búsqueda y reserva, sino también creando una comunidad en torno a la exploración culinaria, con contenido exclusivo y ventajas significativas para nuestros usuarios premium.
+- **Los venceremos debido** a nuestro enfoque en la personalización y la experiencia del usuario, ofreciendo no solo un servicio de búsqueda y reserva, sino también creando una comunidad en torno a la exploración culinaria, con contenido exclusivo y ventajas significativas para nuestros usuarios premium.
 
-**-Mis mayores riesgos de producto** son no lograr una masa crítica de usuarios y restaurantes participantes rápidamente, y la posibilidad de que los usuarios encuentren suficiente valor en la versión gratuita y no opten por el plan premium.
+- **Mis mayores riesgos de producto** son no lograr una masa crítica de usuarios y restaurantes participantes rápidamente, y la posibilidad de que los usuarios encuentren suficiente valor en la versión gratuita y no opten por el plan premium.
 
-**-Resolveremos esto** enfocándonos en construir una sólida base inicial de usuarios y restaurantes a través de ofertas y promociones exclusivas, y asegurando que el valor proporcionado por la suscripción premium exceda significativamente el costo, por ejemplo, ofreciendo descuentos exclusivos, eventos especiales y acceso prioritario a reservas en restaurantes de alta demanda.
+- **Resolveremos esto** enfocándonos en construir una sólida base inicial de usuarios y restaurantes a través de ofertas y promociones exclusivas, y asegurando que el valor proporcionado por la suscripción premium exceda significativamente el costo, por ejemplo, ofreciendo descuentos exclusivos, eventos especiales y acceso prioritario a reservas en restaurantes de alta demanda.
 
 **User Assumptions**
 
@@ -254,7 +254,6 @@ Esta problemática afecta tanto a los consumidores, que se sienten abrumados por
 
 - Personas interesadas en descubrir nuevos restaurantes
 - Restaurantes que quieren darse a conocer.
-  **
  
 
 **¿Dónde encaja nuestro servicio en su trabajo o vida?** 
@@ -343,9 +342,9 @@ Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 # [2.1 Competidores](#competidores)
 ### [2.1.1 Análisis competitivo](#análisis-competitivo)
-![](Images/analysis1.png)
-![](competitive2.png)
-
+![Competitive-Analysis](Images/analysis1.png)
+![Competitive-Analysis](Images/competitive2.png)
+![Competitive-Analysis](Images/analysis3.PNG)
 
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
 Liderazgo en costes:
