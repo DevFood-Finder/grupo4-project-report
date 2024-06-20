@@ -1047,7 +1047,7 @@ En este archivo de formato feature estarán las historias de usuario como caract
 | Sprint#                        | 1        |
 |    -                           | -        |
 |Sprint Planning Background                 |
-|Date                            |2024-04-05|
+|Date                            |05-04-2024|
 |Time                            |08:00 PM|
 |Location                        |Discord|
 |Prepared By                     |Carlos Chavez|
@@ -1122,16 +1122,16 @@ A continuación se presentan capturas de los insights del repositorio del landin
 | Sprint#                        | 2        |
 |    -                           | -        |
 |Sprint Planning Background      |
-|Date                            |2024-04-05|
-|Time                            ||
-|Location                        ||
-|Prepared By                     ||
-|Attendees(to planning meeting)  ||
-|Sprint n - 0 Review Summary     ||
-| Sprint n - 1 Retrospective     ||
+|Date                            |06-07-2024|
+|Time                            |08:00 PM|
+|Location                        |Discord|
+|Prepared By                     |Carlos Chavez|
+|Attendees(to planning meeting)  |Nicolas Vera, Fabiola Becerra|
+|Sprint n - 0 Review Summary     |En el sprint 2 se ha logrado desplegar la primera versión del landing page con Github Pages con sus respectivas secciones.|
+| Sprint n - 1 Retrospective     |Se ha desarrollado un avance de la parte front-end de la aplicación donde se incluyen formularios de autenticación (registro como comensal o dueño de restaurante, inicio de sesión, recuperación de contraseña y cerrar sesión). Además, se ha desarrollado el dashboard principal con su barra de navegación y componentes, CRUD de restaurantes cercanos. De igual manera, los datos se han conectado a un json server y se ha aplicado internacionalización. Sin embargo, los datos en la aplicación web no deberían visualizarse a menos que el usuario tenga el servidor json ejecutándose.|
 |Sprint Goal & User Stories       |
-|Sprint 1 Velocity               ||
-|Sum of Story Points             ||
+|Sprint 1 Velocity               |47|
+|Sum of Story Points             |29|
 #### [5.2.2.2. Sprint Backlog 2.](#sprint-backlog-2)
 #### [5.2.2.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
 
