@@ -1078,6 +1078,22 @@ En el alcance del sprint 1, no se realizaron testing de la aplicación al haber 
 
 A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y el framework Food Finder
 
+**Archivo HTML**
+
+![Execution-Evidence](Images/sprint1ExEv1.PNG)
+
+**Archivo CSS**
+
+![Execution-Evidence](Images/sprint1ExEv2.PNG)
+
+**Archivo JS**
+
+![Execution-Evidence](Images/sprint1ExEv3.PNG)
+
+**Captura de la pagina en ejecucion**
+
+![Execution-Evidence](Images/sprint1ExEv4.PNG)
+
 #### [5.2.1.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
 
 Durante el sprint actual, no se han empleado servicios web debido a que solo se ha desarrollado una landing page estática. Como resultado, la documentación relacionada con los servicios web utilizados no está presente en esta presentación.
@@ -1092,10 +1108,14 @@ A continuación se muestran algunas capturas del servicio de deployment con Gith
 
 Estado de deployment de la página:
 
-Deploys con registros de commits en Github:
+![Software-Deployment-Evidence](Images/sprint1SoftDepl.PNG)
 
 
 #### [5.2.1.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
+
+A continuación se presentan capturas de los insights del repositorio del landing page en Github:
+
+![Team-Collaboration-Insights](Images/sprint1TeamCollab.PNG)
 
 ### [5.2.2. Sprint 2.](#sprint-2)
 #### [5.2.2.1. Sprint Planning 2.](#sprint-planning-2)
