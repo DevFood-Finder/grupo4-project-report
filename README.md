@@ -720,27 +720,27 @@ Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&n
 
 **Registro de comensales**
 
-![web-app-wireframes](Images/appwrfrm1.png)
+![web-app-wireframes](Images/appwrfrm1.PNG)
 
 **Iniciar sesion para los comensales**
 
-![web-app-wireframes](Images/appwrfrm2.png)
+![web-app-wireframes](Images/appwrfrm2.PNG)
 
 **Registro de dueño de restaurante**
 
-![web-app-wireframes](Images/appwrfrm3.png)
+![web-app-wireframes](Images/appwrfrm3.PNG)
 
 **Iniciar sesion de dueño de restaurante**
 
-![web-app-wireframes](Images/appwrfrm4.png)
+![web-app-wireframes](Images/appwrfrm4.PNG)
 
 **Restablecer contraseñas para ambos segmentos**
 
-![web-app-wireframes](Images/appwrfrm5.png)
+![web-app-wireframes](Images/appwrfrm5.PNG)
 
 **Inicio de la aplicacion**
 
-![web-app-wireframes](Images/appwrfrm6.png)
+![web-app-wireframes](Images/appwrfrm6.PNG)
 
 Link: https://www.figma.com/file/Zhf3DGAhyoj8bXBq2XOdaO/DineFinder?type=design&node-id=0%3A1&mode=design&t=bUA1hxzj2tAUT2Ml-1 
 ### [4.4.2. Web Applications Wireflow Diagrams.](#web-applications-wireflow-diagrams)
