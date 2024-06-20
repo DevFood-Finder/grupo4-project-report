@@ -154,6 +154,33 @@ Los integrantes del equipo son:
             - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
             - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
             - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+        - [**5.2.2. Sprint 2.**](#522-sprint-2)
+            - [**5.2.2.1. Sprint Planning 2.**](#5221-sprint-planning-2)
+            - [**5.2.2.2. Sprint Backlog 2.**](#5222-sprint-backlog-2)
+            - [**5.2.2.3. Development Evidence for Sprint Review.**](#5223-development-evidence-for-sprint-review)
+            - [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+            - [**5.2.2.5. Execution Evidence for Sprint Review.**](#5225-execution-evidence-for-sprint-review)
+            - [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#5226-services-documentation-evidence-for-sprint-review)
+            - [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
+            - [**5.2.2.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
+        - [**5.2.3. Sprint 3.**](#523-sprint-3)
+            - [**5.2.3.1. Sprint Planning 3.**](#5231-sprint-planning-3)
+            - [**5.2.3.2. Sprint Backlog 3.**](#5232-sprint-backlog-3)
+            - [**5.2.3.3. Development Evidence for Sprint Review.**](#5233-development-evidence-for-sprint-review)
+            - [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5234-testing-suite-evidence-for-sprint-review)
+            - [**5.2.3.5. Execution Evidence for Sprint Review.**](#5235-execution-evidence-for-sprint-review)
+            - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5236-services-documentation-evidence-for-sprint-review)
+            - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5237-software-deployment-evidence-for-sprint-review)
+            - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5238-team-collaboration-insights-during-sprint)
+        - [**5.2.4. Sprint 4.**](#524-sprint-4)
+            - [**5.2.4.1. Sprint Planning 4.**](#5241-sprint-planning-4)
+            - [**5.2.4.2. Sprint Backlog 4.**](#5242-sprint-backlog-4)
+            - [**5.2.4.3. Development Evidence for Sprint Review.**](#5243-development-evidence-for-sprint-review)
+            - [**5.2.4.4. Testing Suite Evidence for Sprint Review.**](#5244-testing-suite-evidence-for-sprint-review)
+            - [**5.2.4.5. Execution Evidence for Sprint Review.**](#5245-execution-evidence-for-sprint-review)
+            - [**5.2.4.6. Services Documentation Evidence for Sprint Review.**](#5246-services-documentation-evidence-for-sprint-review)
+            - [**5.2.4.7. Software Deployment Evidence for Sprint Review.**](#5247-software-deployment-evidence-for-sprint-review)
+            - [**5.2.4.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 - [8. **Anexos.**](#anexos)
@@ -1016,20 +1043,146 @@ En este archivo de formato feature estarán las historias de usuario como caract
 ## [5.2. Landing Page, Services \& Applications Implementation.](#landing-page-services--applications-implementation)
 ### [5.2.1. Sprint 1.](#sprint-1)
 #### [5.2.1.1. Sprint Planning 1.](#sprint-planning-1)
-                                                                                                                                                                 
+
+| Sprint#                        | 1        |
+|    -                           | -        |
+|Sprint Planning Background                 |
+|Date                            |2024-04-05|
+|Time                            |08:00 PM|
+|Location                        |Discord|
+|Prepared By                     |Carlos Chavez|
+|Attendees(to planning meeting)  |Carlos Chávez, Nicolas Vera, Fabiola Becerra|
+|Sprint n - 0 Review Summary     |No se ha evidenciado un sprint anterior, por lo que no hay un summary del sprint.|
+| Sprint n - 1 Retrospective     |En este sprint se espera implementar el landing page con las secciones de hero, características del producto, testimonios, planes y footer. Al finalizar este sprint, el landing page debe estar desplegado en Github Pages y cualquier usuario debería poder acceder y visualizar la página a través del link.|
+|Sprint Goal & User Stories|
+|Sprint 1 Velocity               |10|
+|Sum of Story Points             |8|
+
 #### [5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
+
+![Sprint-Backlog-1](Images/sprint1BL1.PNG)
+![Sprint-Backlog-1](Images/sprint1BL2.PNG)
+
+
 #### [5.2.1.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
+
+![Development-Evidence](Images/sprint1DevEv1.PNG)
+![Development-Evidence](Images/sprint1DevEv2.PNG)
+
 
 #### [5.2.1.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
 
+En el alcance del sprint 1, no se realizaron testing de la aplicación al haber solo trabajado en el landing page.
 
 #### [5.2.1.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
 
+A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y el framework Food Finder
+
 #### [5.2.1.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
+
+Durante el sprint actual, no se han empleado servicios web debido a que solo se ha desarrollado una landing page estática. Como resultado, la documentación relacionada con los servicios web utilizados no está presente en esta presentación.
 
 #### [5.2.1.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
 
+Por el momento, no se ha utilizado servicios web para realizar el desarrollo del landing page, por lo que no se evidencian actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros.
+
+En cuanto al deployment del landing page. Se encuentra en la plataforma de Github Pages. El siguiente link es del landing page:https://devfood-finder.github.io/foodfinder-landing/ 
+
+A continuación se muestran algunas capturas del servicio de deployment con Github Pages:
+
+Estado de deployment de la página:
+
+Deploys con registros de commits en Github:
+
+
 #### [5.2.1.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
+
+### [5.2.2. Sprint 2.](#sprint-2)
+#### [5.2.2.1. Sprint Planning 2.](#sprint-planning-2)
+| Sprint#                        | 2        |
+|    -                           | -        |
+|Sprint Planning Background      |
+|Date                            |2024-04-05|
+|Time                            ||
+|Location                        ||
+|Prepared By                     ||
+|Attendees(to planning meeting)  ||
+|Sprint n - 0 Review Summary     ||
+| Sprint n - 1 Retrospective     ||
+|Sprint Goal & User Stories       |
+|Sprint 1 Velocity               ||
+|Sum of Story Points             ||
+#### [5.2.2.2. Sprint Backlog 2.](#sprint-backlog-2)
+#### [5.2.2.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
+
+#### [5.2.2.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
+
+
+#### [5.2.2.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
+
+#### [5.2.2.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
+
+#### [5.2.2.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
+
+#### [5.2.2.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
+
+### [5.2.3. Sprint 3.](#sprint-3)
+#### [5.2.3.1. Sprint Planning 3.](#sprint-planning-3)
+| Sprint#                        | 3        |
+|    -                           | -        |
+|Sprint Planning Background      |
+|Date                            |2024-04-05|
+|Time                            ||
+|Location                        ||
+|Prepared By                     ||
+|Attendees(to planning meeting)  ||
+|Sprint n - 0 Review Summary     ||
+| Sprint n - 1 Retrospective     ||
+|Sprint Goal & User Stories       |
+|Sprint 1 Velocity               ||
+|Sum of Story Points             ||
+#### [5.2.3.2. Sprint Backlog 3.](#sprint-backlog-3)
+#### [5.2.3.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
+
+#### [5.2.3.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
+
+
+#### [5.2.3.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
+
+#### [5.2.3.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
+
+#### [5.2.3.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
+
+#### [5.2.3.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
+
+### [5.2.4. Sprint 4.](#sprint-4)
+#### [5.2.4.1. Sprint Planning 4.](#sprint-planning-4)
+| Sprint#                        | 4        |
+|    -                           | -        |
+|Sprint Planning Background      |
+|Date                            |2024-04-05|
+|Time                            ||
+|Location                        ||
+|Prepared By                     ||
+|Attendees(to planning meeting)  ||
+|Sprint n - 0 Review Summary     ||
+| Sprint n - 1 Retrospective     ||
+|Sprint Goal & User Stories       |
+|Sprint 1 Velocity               ||
+|Sum of Story Points             ||
+#### [5.2.4.2. Sprint Backlog 4.](#sprint-backlog-4)
+#### [5.2.4.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
+
+#### [5.2.4.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
+
+
+#### [5.2.4.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
+
+#### [5.2.4.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
+
+#### [5.2.4.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
+
+#### [5.2.4.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
 
 # [6.Conclusiones.](#conclusiones)
 
