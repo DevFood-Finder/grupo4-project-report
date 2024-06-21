@@ -1068,6 +1068,7 @@ En este archivo de formato feature estarán las historias de usuario como caract
 
 ![Development-Evidence](Images/sprint1DevEv1.PNG)
 ![Development-Evidence](Images/sprint1DevEv2.PNG)
+![Development-Evidence](Images/sprint1DevEv3.PNG)
 
 
 #### [5.2.1.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
@@ -1133,9 +1134,21 @@ A continuación se presentan capturas de los insights del repositorio del landin
 |Sprint 1 Velocity               |47|
 |Sum of Story Points             |29|
 #### [5.2.2.2. Sprint Backlog 2.](#sprint-backlog-2)
+
+![Sprint2-Backlog](Images/sprint2BL1.PNG)
+![Sprint2-Backlog](Images/sprint2BL2.PNG)
+
+
 #### [5.2.2.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
 
+
+![Development-Evidence](Images/sprint2DevEv1.PNG)
+![Development-Evidence](Images/sprint2DevEv2.PNG)
+
+
 #### [5.2.2.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
+
+En el alcance del sprint 2, se ha desarrollado la parte front-end de la aplicación por lo que no se ha desarrollado avances en cuanto al testing de la aplicación, por lo que no se evidencian commits.
 
 
 #### [5.2.2.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
@@ -1151,13 +1164,13 @@ A continuación se presentan capturas de los insights del repositorio del landin
 | Sprint#                        | 3        |
 |    -                           | -        |
 |Sprint Planning Background      |
-|Date                            |2024-04-05|
-|Time                            ||
-|Location                        ||
-|Prepared By                     ||
-|Attendees(to planning meeting)  ||
-|Sprint n - 0 Review Summary     ||
-| Sprint n - 1 Retrospective     ||
+|Date                            |28-05-2024|
+|Time                            |08:16 PM|
+|Location                        |UPC|
+|Prepared By                     |Carlos Chavez|
+|Attendees(to planning meeting)  | Carlos Chávez, Nicolas Vera, Fabiola Becerra|
+|Sprint n - 2 Review Summary     |En el anterior sprint se ha desarrollado una primera versión del front-end de la aplicación web con el framework de Angular. Esta versión incluyó las vistas core business para realizar reservas de citas médicas.|
+| Sprint n - 3 Retrospective     |En el presente sprint se han desarrollado algunos avances de parte front-end para mejorar las vistas de algunos componentes. Por otro lado, se ha comenzado el proyecto del RESTful API en Spring para la parte backend y se ha desarrollado algunos bounded context como profiles, creación de menús, entre otros. Al finalizar este sprint, se podrán observar nuevas vistas en la aplicación web y se podrá acceder al endpoint del RESTful API de manera local.|
 |Sprint Goal & User Stories       |
 |Sprint 1 Velocity               ||
 |Sum of Story Points             ||
