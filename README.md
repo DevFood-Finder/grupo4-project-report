@@ -1185,19 +1185,38 @@ A continuación se presentan capturas de los insights del repositorio del front-
 #### [5.2.3.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
 A continuación se presentan capturas de back-end y de las tablas creadas en MySQL
 
+Base de dato creada con tablas
+
+![SQL](Images/sql.PNG)
+
+Ejecucion exitosa del proyecto backend
+
+![backend](Images/backend.PNG)
+
+Visualizacion de endpoints en swagger
+
+![endpoints](Images/endpoints.PNG)
+
 #### [5.2.3.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
 En el alcance del sprint 3, se ha desarrollado una parte del back-end de la aplicación; sin embargo, no se ha desarrollado avances en cuanto al testing de la aplicación.
 
 #### [5.2.3.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
 A continuación se presentan capturas del desarrollo del backend implementado parcialmente en código.Ademas, de la creacion de distintas tablas en la base de datos MySQL
+
+![backend2](Images/backend2.PNG)
+
 #### [5.2.3.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
 
 #### [5.2.3.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
-En cuanto al deployment del back-end. Se encuentra en la plataforma de . 
+En cuanto al deployment del back-end. Se encuentra en la plataforma de Railway. 
+
+![railway](Images/railway.jfif)
 
 El siguiente link es del back-end:
 #### [5.2.3.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
 A continuación se presentan capturas de los insights del repositorio del back-end en Github:
+
+![insights](Images/insights.PNG)
 
 ### [5.2.4. Sprint 4.](#sprint-4)
 #### [5.2.4.1. Sprint Planning 4.](#sprint-planning-4)
