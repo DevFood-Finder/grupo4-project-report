@@ -1193,7 +1193,9 @@ A continuación se presentan capturas del desarrollo del backend implementado pa
 #### [5.2.3.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
 
 #### [5.2.3.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
+En cuanto al deployment del back-end. Se encuentra en la plataforma de . 
 
+El siguiente link es del back-end:
 #### [5.2.3.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
 A continuación se presentan capturas de los insights del repositorio del back-end en Github:
 
@@ -1224,9 +1226,9 @@ A continuación se presentan capturas de la aplicacion implementado tanto el fro
 #### [5.2.4.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
 
 #### [5.2.4.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
-En cuanto al deployment del back-end. Se encuentra en la plataforma de . 
+En cuanto al deployment de la aplicacion. Se encuentra en la plataforma de . 
 
-El siguiente link es del front-end:
+El siguiente link es de la aplicacion:
 #### [5.2.4.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
 A continuación se presentan capturas de los insights del repositorio del back-end en Github:
 
