@@ -1158,7 +1158,7 @@ A continuación se presentan capturas del front-end implementado parcialmente en
 
 #### [5.2.2.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
 
-En cuanto al deployment del front-end. Se encuentra en la plataforma de . El siguiente link es del front-end:
+En cuanto al deployment del front-end. Se encuentra en la plataforma de . El siguiente link es del front-end:https://main--foodfinder-app.netlify.app/
 
 A continuación se muestran algunas capturas del servicio de deployment con :
 
@@ -1179,10 +1179,11 @@ A continuación se presentan capturas de los insights del repositorio del front-
 |Sprint n - 2 Review Summary     |En el anterior sprint se ha desarrollado una primera versión del front-end de la aplicación web con el framework de Angular. Esta versión incluyó las vistas core business para realizar reservas de citas médicas.|
 | Sprint n - 3 Retrospective     |En el presente sprint se han desarrollado algunos avances de parte front-end para mejorar las vistas de algunos componentes. Por otro lado, se ha comenzado el proyecto del RESTful API en Spring para la parte backend y se ha desarrollado algunos bounded context como profiles, creación de menús, entre otros. Al finalizar este sprint, se podrán observar nuevas vistas en la aplicación web y se podrá acceder al endpoint del RESTful API de manera local.|
 |Sprint Goal & User Stories       |
-|Sprint 1 Velocity               ||
-|Sum of Story Points             ||
+|Sprint 1 Velocity               |47|
+|Sum of Story Points             |29|
 #### [5.2.3.2. Sprint Backlog 3.](#sprint-backlog-3)
 #### [5.2.3.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
+A continuación se presentan capturas de back-end y de las tablas creadas en MySQL
 
 #### [5.2.3.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
 En el alcance del sprint 3, se ha desarrollado una parte del back-end de la aplicación; sin embargo, no se ha desarrollado avances en cuanto al testing de la aplicación.
@@ -1202,27 +1203,30 @@ A continuación se presentan capturas de los insights del repositorio del back-e
 |    -                           | -        |
 |Sprint Planning Background      |
 |Date                            |2024-04-05|
-|Time                            ||
-|Location                        ||
-|Prepared By                     ||
-|Attendees(to planning meeting)  ||
-|Sprint n - 0 Review Summary     ||
-| Sprint n - 1 Retrospective     ||
+|Time                            |6:00 pm|
+|Location                        |UPC|
+|Prepared By                     |Nicolas Vera|
+|Attendees(to planning meeting)  |Nicolas Vera, Fabiola Becerra,Carlos Chavez|
+|Sprint n - 3 Review Summary     |En el anterior sprint se ha desarrollado la primera parte del back-end, se ha desarrollado las tablas que vamos a utilzar y las Apis que hemos creado|
+| Sprint n - 4 Retrospective     |En el presente sprint, se ha culminado con el desarrollo de la aplicacion. Hemos juntado el front-end con el back-end.Ademas de culminar las Apis y tablas pendientes del sprint 3|
 |Sprint Goal & User Stories       |
-|Sprint 1 Velocity               ||
-|Sum of Story Points             ||
+|Sprint 1 Velocity               |47|
+|Sum of Story Points             |29|
 #### [5.2.4.2. Sprint Backlog 4.](#sprint-backlog-4)
 #### [5.2.4.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
-
+En el alcance del sprint 4, se ha culminado con el desarrollo de la aplicacion y del back-end.Ademas, hemos juntado tanto el front-end con el back-end y las Apis que hemos creado
 #### [5.2.4.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
 
 
 #### [5.2.4.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
+A continuación se presentan capturas de la aplicacion implementado tanto el front-end, las Apis y el back-end
 
 #### [5.2.4.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
 
 #### [5.2.4.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
+En cuanto al deployment del back-end. Se encuentra en la plataforma de . 
 
+El siguiente link es del front-end:
 #### [5.2.4.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
 A continuación se presentan capturas de los insights del repositorio del back-end en Github:
 
