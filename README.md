@@ -1242,14 +1242,39 @@ En el alcance del sprint 4, se ha culminado con el desarrollo de la aplicacion y
 #### [5.2.4.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
 A continuación se presentan capturas de la aplicacion implementado tanto el front-end, las Apis y el back-end
 
+Base de dato creada con tablas
+
+![SQL](Images/sql.PNG)
+
+Ejecucion exitosa del proyecto backend
+
+![backend](Images/backend.PNG)
+
+Visualizacion de endpoints en swagger
+
+![endpoints](Images/endpoints.PNG)
+
+
 #### [5.2.4.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
 
 #### [5.2.4.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
 En cuanto al deployment de la aplicacion. Se encuentra en la plataforma de . 
 
-El siguiente link es de la aplicacion:
+Back-end: 
+
+![railway](Images/railway.jfif)
+
+Front-end:
+
+![front](Images/front.jfif)
+
+
+El siguiente link es de la aplicacion: https://main--foodfinder-app.netlify.app/login
 #### [5.2.4.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
 A continuación se presentan capturas de los insights del repositorio del back-end en Github:
+
+![insights](Images/insights.PNG)
+
 
 # [6.Conclusiones.](#conclusiones)
 
